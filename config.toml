@@ -1,4 +1,4 @@
-base_url = "https://cheapnightbot.github.io/Nerdsomeness"
+base_url = "https://cheapnightbot.github.io/Nerdsomeness/"
 title = "Nerdsomeness"
 description = "Hey welcome, I am Nerdsomeness, and this is my corner of the internet where I share my thoughts and daily ins & outs."
 compile_sass = false
@@ -37,6 +37,6 @@ list_pages = false
 twitter_card = true
 
 header_nav = [
-  { url = "/", name_en = "/journal/" },
-  { url = "/blog", name_en = "/blog/" }
+  { url = "/Nerdsomeness", name_en = "/journal/" },
+  { url = "/Nerdsomeness/blog", name_en = "/blog/" }
 ]
