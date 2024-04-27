@@ -1,5 +1,5 @@
 +++
-title = "Personal Journal"
+title = "Nerdsomeness - Personal Journal"
 date = 2024-04-01
 draft = false
 +++

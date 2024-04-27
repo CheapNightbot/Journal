@@ -37,6 +37,6 @@ list_pages = false
 twitter_card = true
 
 header_nav = [
-  { url = "/", name_en = "/journal/" },
-  { url = "/blog", name_en = "/blog/" }
+  { url = "Nerdsomeness/", name_en = "/journal/" },
+  { url = "Nerdsomeness/blog", name_en = "/blog/" }
 ]
