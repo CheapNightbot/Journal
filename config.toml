@@ -1,0 +1,42 @@
+base_url = "https://cheapnightbot.github.io/nerdsomeness"
+title = "Nerdsomeness"
+description = "Hey welcome, I am Nerdsomeness, and this is my corner of the internet where I share my thoughts and daily ins & outs."
+compile_sass = false
+minify_html = true
+generate_feed = true
+default_language = "en"
+theme = "anemone-ness"
+
+taxonomies = [
+    {name = "tags", feed = true},
+]
+
+[markdown]
+render_emoji = true
+external_links_target_blank = true
+smart_punctuation = true
+highlight_code = false
+highlight_theme = "gruvbox-dark"
+
+[slugify]
+paths = "on"
+taxonomies = "on"
+anchors = "on"
+
+[link_checker]
+internal_level = "warn"
+
+[extra]
+author = "Nerdsomeness"
+display_author = true
+
+favicon = "favicon.ico"
+
+default_theme = "light"
+list_pages = false
+twitter_card = true
+
+header_nav = [
+  { url = "/", name_en = "/journal/" },
+  { url = "/blog", name_en = "/blog/" }
+]

@@ -1,0 +1,3 @@
+[submodule "themes/anemone-ness"]
+	path = themes/anemone-ness
+	url = https://github.com/CheapNightbot/anemone-ness.git
