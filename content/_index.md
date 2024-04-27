@@ -92,7 +92,7 @@ fi
 - Really feeling proud of myself even though didn't do much today. („• ֊ •„)
 - Oh, **Discord** got an updated today and there was "Loot Boxes" thing and the reward was "joker" profile decoration. I think it's April Fool's joke as it at the end mentioned "..you wasted your time opening Lootboxes". (｡￫∀￩｡)
 
-{{ img(id="/journal/April 02, 2024/discord-loot_boxes.png", alt="Discord Loot Boxes", title="Discord Loot Boxes", width="673", height="314", class="center") }}
+{{ img(id="/Nerdsomeness/journal/April 02, 2024/discord-loot_boxes.png", alt="Discord Loot Boxes", title="Discord Loot Boxes", width="673", height="314", class="center") }}
 
 
 ## {{ date_format(date="2024-04-01") }} (^///^)
