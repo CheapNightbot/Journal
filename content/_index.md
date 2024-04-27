@@ -1,10 +1,8 @@
 +++
-title = "Nerdsomeness - Personal Journal"
+title = "Nerdsomeness - Journal"
 date = 2024-04-01
 draft = false
 +++
-
-# Personal Journal
 
 <!-- NEW POST ON TOP -->
 
