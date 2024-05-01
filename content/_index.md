@@ -6,6 +6,17 @@ draft = false
 
 <!-- NEW POST ON TOP -->
 
+## {{ date_format(date="2024-05-01") }} つ﹏⊂
+> {{ date_format_journal(date="2024-05-01T20:14:12") }}
+
+- Today, (finally) I started the CS50 journey.. ( •̀ ω •́ )✧
+- To be honest, it's so interesting, fascinating, etc., but at first (before even starting anything), kind of confusing and overwhelming.. \~_\~
+- Like, there are two sites mentioned: "https://cs50.edx.org/" and "https://cs50.harvard.edu/x", WHICH IS confusing.
+- But later got to know that "cs50.edx.org" takes to the "cs50.harvard.edu/x", but the "edx.org" is just (kind of) a platform for hosting courses and it gives "cerified - certificates", but have to pay for it..
+- Anyway, still went with "cs50.edx.org" (as it was the first link mentioned under "where to take CS50.."), but it's again, as mentioned, confusing.. like, it doesn't tell you where to start and which one to do first and second and so forth..
+- It have all these tabs, links all over the place and I don't know which one to take first and after that.. you know what I mean. Like, just why not put everything in a more intuitive manner?
+- Like, wish there was everything in list format or maybe instructions like, "start here, then do this one and then that.. etc.". OR maybe I'm a potato brain just complaining here.. 〒▽〒
+
 ## {{ date_format(date="2024-04-27") }} ( ´･･)ﾉ(._.`)
 > {{ date_format_journal(date="2024-04-27T21:39:27") }}
 
