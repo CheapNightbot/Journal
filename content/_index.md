@@ -6,6 +6,13 @@ draft = false
 
 <!-- NEW POST ON TOP -->
 
+## {{ date_format(date="2024-05-02") }} (。_。)
+> {{ date_format_journal(date="2024-05-02T22:25:12") }}
+
+- Continuing the book mentioned earlier about JavaScript (too with CS50, why not?); I got to know that in JavaScript "variables" are also called "bindings". Makes sense; "we bind a value to a name that holds that value" - "we just binding a value to a name" ! .\______.
+- Ow, due to freakin electricity / power cuts + no internet data, I couldn't take the CS50 today. TwT
+- Life is unfair and only if you care (ˉ▽ˉ；)... wat?
+
 ## {{ date_format(date="2024-05-01") }} つ﹏⊂
 > {{ date_format_journal(date="2024-05-01T20:14:12") }}
 
