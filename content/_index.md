@@ -6,6 +6,22 @@ draft = false
 
 <!-- NEW POST ON TOP -->
 
+## {{ date_format(date="2024-05-04") }} :EMOJI:
+> {{ date_format_journal(date="2024-05-04T22:07:50") }}
+
+- Aaaaaaaaggh!!!!!!!!! (⁠╯⁠°⁠□⁠°⁠）⁠╯⁠︵⁠ ⁠┻⁠━⁠┻
+- My computer died for no reason.. TwT
+- I don't freakin know what happened. Like, literally I opened Visual Studio Code and created a `main.py` file and "boom" -! Like, it played some distorted sound through speakers and then went into blue screen of death and now I can't open my PC. (⁠〒⁠﹏⁠〒⁠)
+- There is one uncommited change on my computer for the Journal and that is gone too... (⁠•⁠ ⁠▽⁠ ⁠•⁠;⁠)
+- I don't know what I will do now.. What do I do? (⁠╥⁠﹏⁠╥⁠)
+- My PC & Data gone ! HELP ! (⁠´⁠；⁠ω⁠；⁠｀⁠)
+
+{{ img(id="/Nerdsomeness/journal/May 04, 2024/Blue Screen of Death.jpg", alt="Blue Screen of Death", title="Blue Screen of Death", width="", height="", class="center") }}
+
+{{ img(id="/Nerdsomeness/journal/May 04, 2024/disk read error.jpg", alt="disk read error"  title="disk read error", width="", height="", class="center") }}
+
+{{ img(id="/Nerdsomeness/journal/May 04, 2024/BOOTMGR image is corrupt.jpg", alt="BOOTMGR image is corrupt", title="BOOTMGR image is corrupt", width="", height="", class="center") }}
+
 ## {{ date_format(date="2024-05-02") }} (。_。)
 > {{ date_format_journal(date="2024-05-02T22:25:12") }}
 
