@@ -6,7 +6,7 @@ draft = false
 
 <!-- NEW POST ON TOP -->
 
-## {{ date_format(date="2024-05-04") }} :EMOJI:
+## {{ date_format(date="2024-05-04") }} (⁠´⁠；⁠ω⁠；⁠｀⁠)
 > {{ date_format_journal(date="2024-05-04T22:07:50") }}
 
 - Aaaaaaaaggh!!!!!!!!! (⁠╯⁠°⁠□⁠°⁠）⁠╯⁠︵⁠ ⁠┻⁠━⁠┻
@@ -21,6 +21,8 @@ draft = false
 {{ img(id="/Nerdsomeness/journal/May 04, 2024/disk read error.jpg", alt="disk read error"  title="disk read error", width="", height="", class="center") }}
 
 {{ img(id="/Nerdsomeness/journal/May 04, 2024/BOOTMGR image is corrupt.jpg", alt="BOOTMGR image is corrupt", title="BOOTMGR image is corrupt", width="", height="", class="center") }}
+
+- Ow, by the way, me wrote today's Journal on my potato-droid phone using **Termux**. (⁠ ⁠；⁠∀⁠；⁠)
 
 ## {{ date_format(date="2024-05-02") }} (。_。)
 > {{ date_format_journal(date="2024-05-02T22:25:12") }}
