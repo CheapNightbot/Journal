@@ -7,12 +7,19 @@ draft = false
 <!-- NEW POST ON TOP -->
 
 ## {{ date_format(date="2024-05-04") }} (⁠´⁠；⁠ω⁠；⁠｀⁠)
+
+> {{ date_format_journal(date="2024-05-04T00:29:50") }} (￢︿̫̿￢☆)
+
+- Ah!!!!!! ヽ（≧□≦）ノ
+- Was so dedicated in the CS50 problem set 0 (aka week 0 problem set). ( •̀ .̫ •́ )✧
+- This is the time when you realize the only thing that matters and makes you different is how you think OR maybe what can you think of.. ╮(╯-╰)╭
+
 > {{ date_format_journal(date="2024-05-04T22:07:50") }}
 
 - Aaaaaaaaggh!!!!!!!!! (⁠╯⁠°⁠□⁠°⁠）⁠╯⁠︵⁠ ⁠┻⁠━⁠┻
 - My computer died for no reason.. TwT
 - I don't freakin know what happened. Like, literally I opened Visual Studio Code and created a `main.py` file and "boom" -! Like, it played some distorted sound through speakers and then went into blue screen of death and now I can't open my PC. (⁠〒⁠﹏⁠〒⁠)
-- There is one uncommited change on my computer for the Journal and that is gone too... (⁠•⁠ ⁠▽⁠ ⁠•⁠;⁠)
+- ~There is one uncommited change on my computer for the Journal and that is gone too... (⁠•⁠ ⁠▽⁠ ⁠•⁠;⁠)~ Commited on May 13, 2024 !
 - I don't know what I will do now.. What do I do? (⁠╥⁠﹏⁠╥⁠)
 - My PC & Data gone ! HELP ! (⁠´⁠；⁠ω⁠；⁠｀⁠)
 
