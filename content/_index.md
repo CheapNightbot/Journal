@@ -6,6 +6,12 @@ draft = false
 
 <!-- NEW POST ON TOP -->
 
+## {{ date_format(date="2024-05-13") }} (￣▽￣* )ゞ
+> {{ date_format_journal(date="2024-05-13T02:42:00") }}
+
+- GOT BACK TO MY PC !! \~\\(≧▽≦)/\~
+- A lot happened in between this time (since last wrote Journal and today), but it's waste to write all of those things now (this late). (ヘ･_･)ヘ┳━┳
+
 ## {{ date_format(date="2024-05-04") }} (⁠´⁠；⁠ω⁠；⁠｀⁠)
 
 > {{ date_format_journal(date="2024-05-04T00:29:50") }} (￢︿̫̿￢☆)
