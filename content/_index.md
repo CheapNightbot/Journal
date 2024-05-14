@@ -6,6 +6,27 @@ draft = false
 
 <!-- NEW POST ON TOP -->
 
+## {{ date_format(date="2024-05-15") }} ( = ⩊ = )
+> {{ date_format_journal(date="2024-05-15T03:32:14") }}
+
+- Health = ✔
+- Motivation = ✔
+- PC = Nah bruh, let me die.. 凸(￣ヘ￣)
+- How do I keep up with CS50 ? (｡T ω T｡)
+- Ow, speaking of CS50.. I just remembered something !! (/▿＼ )
+- So, when I joined/started the CS50, I also joined their **Discord** and a discussion forum - **CS50x - Ed Discussion**.
+    - And as soon as I joined that forum (Ed Discussion), I saw someone anonymous (literally "Anonymous") asked for some help regarding the **WSL** (Windows Subsystem for Linux). o(TヘTo)
+    - [{{ img(id="/Nerdsomeness/journal/May 15, 2024/Help regarding WSL posted on CS50 - Ed Discussion by Anonymous.png", alt="Help regarding WSL posted on CS50 - Ed Discussion by Anonymous", title="Help regarding WSL posted on CS50 - Ed Discussion by Anonymous", width="690", height="503", class="center") }}](https://edstem.org/us/courses/176/discussion/4882883)
+    - And you know what? |･ω･)
+    - I had previously taken the [Introduction to Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/training/modules/wsl-introduction/) learning module on **Microsoft Learn** + had learnt about **WSL** from docs + had same/similar issue few years ago AND immediately knew what's wrong and replied them ("Anonymous") with the solution ! 	___〆(・∀・)
+    - As expected, it worked for them / the problem solved and they replied with "Thank you..":
+    - [{{ img(id="/Nerdsomeness/journal/May 15, 2024/Anonymous replied with Thank you.png", alt="Anonymous replied with Thank you", title="Anonymous replied with Thank you", width="305", height="73", class="center") }}]((https://edstem.org/us/courses/176/discussion/4882883))
+    - Aaaaaaaaaaaaaaa- you know the happiness you get when you help someone and the confidence you earn from it !! 	(⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)
+- I might write (kind of) Blog about this problem and solution (maybe it will be helpful for someone or maybe for me in the future) soon™, when I get time.
+- So, two Blogs on to-do.. XD
+    - While I can't write the other blog (on self-hosting) any soon due to PC-kun being sus, but can and will be writing the WSL one. („• ֊ •„)
+- I JUST WANT TO DO IT AND MAYBE EVERYTHING.. SOMEONE PLEASE ADOPT ME! (oT-T)尸
+
 ## {{ date_format(date="2024-05-13") }} (￣▽￣* )ゞ
 > {{ date_format_journal(date="2024-05-13T02:42:00") }}
 
