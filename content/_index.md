@@ -16,11 +16,11 @@ draft = false
 - Ow, speaking of CS50.. I just remembered something !! (/▿＼ )
 - So, when I joined/started the CS50, I also joined their **Discord** and a discussion forum - **CS50x - Ed Discussion**.
     - And as soon as I joined that forum (Ed Discussion), I saw someone anonymous (literally "Anonymous") asked for some help regarding the **WSL** (Windows Subsystem for Linux). o(TヘTo)
-    - [{{ img(id="/Nerdsomeness/journal/May 15, 2024/Help regarding WSL posted on CS50 - Ed Discussion by Anonymous.png", alt="Help regarding WSL posted on CS50 - Ed Discussion by Anonymous", title="Help regarding WSL posted on CS50 - Ed Discussion by Anonymous", width="690", height="503", class="center") }}](https://edstem.org/us/courses/176/discussion/4882883)
+    - [{{ img(id="/journal/May 15, 2024/Help regarding WSL posted on CS50 - Ed Discussion by Anonymous.png", alt="Help regarding WSL posted on CS50 - Ed Discussion by Anonymous", title="Help regarding WSL posted on CS50 - Ed Discussion by Anonymous", width="690", height="503", class="center") }}](https://edstem.org/us/courses/176/discussion/4882883)
     - And you know what? |･ω･)
     - I had previously taken the [Introduction to Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/training/modules/wsl-introduction/) learning module on **Microsoft Learn** + had learnt about **WSL** from docs + had same/similar issue few years ago AND immediately knew what's wrong and replied them ("Anonymous") with the solution ! 	___〆(・∀・)
     - As expected, it worked for them / the problem solved and they replied with "Thank you..":
-    - [{{ img(id="/Nerdsomeness/journal/May 15, 2024/Anonymous replied with Thank you.png", alt="Anonymous replied with Thank you", title="Anonymous replied with Thank you", width="305", height="73", class="center") }}]((https://edstem.org/us/courses/176/discussion/4882883))
+    - [{{ img(id="/journal/May 15, 2024/Anonymous replied with Thank you.png", alt="Anonymous replied with Thank you", title="Anonymous replied with Thank you", width="305", height="73", class="center") }}]((https://edstem.org/us/courses/176/discussion/4882883))
     - Aaaaaaaaaaaaaaa- you know the happiness you get when you help someone and the confidence you earn from it !! 	(⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)
 - I might write (kind of) Blog about this problem and solution (maybe it will be helpful for someone or maybe for me in the future) soon™, when I get time.
 - So, two Blogs on to-do.. XD
@@ -50,11 +50,11 @@ draft = false
 - I don't know what I will do now.. What do I do? (⁠╥⁠﹏⁠╥⁠)
 - My PC & Data gone ! HELP ! (⁠´⁠；⁠ω⁠；⁠｀⁠)
 
-{{ img(id="/Nerdsomeness/journal/May 04, 2024/Blue Screen of Death.jpg", alt="Blue Screen of Death", title="Blue Screen of Death", width="", height="", class="center") }}
+{{ img(id="/journal/May 04, 2024/Blue Screen of Death.jpg", alt="Blue Screen of Death", title="Blue Screen of Death", width="", height="", class="center") }}
 
-{{ img(id="/Nerdsomeness/journal/May 04, 2024/disk read error.jpg", alt="disk read error"  title="disk read error", width="", height="", class="center") }}
+{{ img(id="/journal/May 04, 2024/disk read error.jpg", alt="disk read error"  title="disk read error", width="", height="", class="center") }}
 
-{{ img(id="/Nerdsomeness/journal/May 04, 2024/BOOTMGR image is corrupt.jpg", alt="BOOTMGR image is corrupt", title="BOOTMGR image is corrupt", width="", height="", class="center") }}
+{{ img(id="/journal/May 04, 2024/BOOTMGR image is corrupt.jpg", alt="BOOTMGR image is corrupt", title="BOOTMGR image is corrupt", width="", height="", class="center") }}
 
 - Ow, by the way, me wrote today's Journal on my potato-droid phone using **Termux**. (⁠ ⁠；⁠∀⁠；⁠)
 
@@ -160,7 +160,7 @@ fi
 - Really feeling proud of myself even though didn't do much today. („• ֊ •„)
 - Oh, **Discord** got an updated today and there was "Loot Boxes" thing and the reward was "joker" profile decoration. I think it's April Fool's joke as it at the end mentioned "..you wasted your time opening Lootboxes". (｡￫∀￩｡)
 
-{{ img(id="/Nerdsomeness/journal/April 02, 2024/discord-loot_boxes.png", alt="Discord Loot Boxes", title="Discord Loot Boxes", width="673", height="314", class="center") }}
+{{ img(id="/journal/April 02, 2024/discord-loot_boxes.png", alt="Discord Loot Boxes", title="Discord Loot Boxes", width="673", height="314", class="center") }}
 
 
 ## {{ date_format(date="2024-04-01") }} (^///^)
