@@ -6,6 +6,14 @@ draft = false
 
 <!-- NEW POST ON TOP -->
 
+## {{ date_format(date="2024-05-20") }} (´,,•ω•,,)
+> {{ date_format_journal(date="2024-05-20T11:58:46") }}
+
+- Aaaaaaaaaaaaaaaaaaa~!!!!!!!!! ☆\*:.｡.o(≧▽≦)o.｡.:\*☆
+- Today applied for a job and it's a secret, okie? ♡(>ᴗ•)
+- Ow, today sister DM me, which made me really happy and nervious too.. (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)
+- Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa- !!!!!!! (/▽＼*)｡o○♡
+
 ## {{ date_format(date="2024-05-15") }} ( = ⩊ = )
 > {{ date_format_journal(date="2024-05-15T03:32:14") }}
 
