@@ -11,8 +11,9 @@ draft = false
 
 - Aaaaaaaaaaaaaaaaaaa~!!!!!!!!! ☆\*:.｡.o(≧▽≦)o.｡.:\*☆
 - Today applied for a job and it's a secret, okie? ♡(>ᴗ•)
-- Ow, today sister DM me, which made me really happy and nervious too.. (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)
-- Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa- !!!!!!! (/▽＼*)｡o○♡
+- Ow, today sister DM me,
+        - which made me really happy and nervious too.. (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)
+- Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa- !!!!!!! (/▽＼*)｡o○♡
 
 ## {{ date_format(date="2024-05-15") }} ( = ⩊ = )
 > {{ date_format_journal(date="2024-05-15T03:32:14") }}
