@@ -6,6 +6,22 @@ draft = false
 
 <!-- NEW POST ON TOP -->
 
+## {{ date_format(date="2024-05-21") }} (⁠ ⁠；⁠∀⁠；⁠) hehe.. 
+> {{ date_format_journal(date="2024-05-21T04:11:54") }}
+
+- I think I cought cold. (⁠〒⁠﹏⁠〒⁠)
+- I couldn't sleep whole night. My whole body is burning and it's hurting too. So, I think it's fever too.. (⁠ ⁠；⁠∀⁠；⁠)
+- Then, at 3 o'clock morning, I made myself a ginger tea. And it was really good and warm. It did helped little in cold, but my body still burning.
+- So, I opened X (Twitter) and saw post + repost (thank you !!) in my "Following" tab / timeline.
+    - Ow, speaking of timeline on Twitter, I always stay in "Following" tab.. 〜⁠(⁠꒪⁠꒳⁠꒪⁠)⁠〜
+- Okie, back to the ~post~ tweet I was talking about ! ᕙ⁠(⁠ ⁠:⁠ ⁠˘⁠ ⁠∧⁠ ⁠˘⁠ ⁠:⁠ ⁠)⁠ᕗ
+- So, someone mentioned in the tweet that they have sent around 5000 resumés to job postings.  (⁠≧⁠▽⁠≦⁠)
+    - SINCE TGE START OF THIS YRAR TILL NOW !! (⁠(⁠(⁠;⁠ꏿ⁠_⁠ꏿ⁠;⁠)⁠)⁠)
+    - AND, they got interviewed + passed the interviews + everything okie + made it to the final, BUT !! DIDN'T GET A JOB... ༼⁠;⁠´⁠༎ຶ⁠ ⁠۝ ⁠༎ຶ⁠༽
+- Like they say in Western culture nowadays, "I'm cooked". I think I have gotten the rights to say that (even though I have no idea what it really means. XD
+- Like, someone, that big, applying to 5000 jobs, in under half year and still not getting hired and keep applying... Then, I am just a small potato, applied to one job, I don't know what's going to happen. (⁠ ⁠；⁠∀⁠；)
+
+
 ## {{ date_format(date="2024-05-20") }} (´,,•ω•,,)
 > {{ date_format_journal(date="2024-05-20T11:58:46") }}
 
