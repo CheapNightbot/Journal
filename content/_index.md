@@ -17,10 +17,10 @@ draft = false
 
 > {{ date_format_journal(date="2024-05-20T12:39:30") }}
 
+- I don't know, but Suddenly my heartbeat has increased. ⁄⁠(⁠⁄⁠ ⁠⁄⁠•⁠⁄⁠-⁠⁄⁠•⁠⁄⁠ ⁠⁄⁠)⁠⁄
+
 ## {{ date_format(date="2024-05-15") }} ( = ⩊ = )
 > {{ date_format_journal(date="2024-05-15T03:32:14") }}
-
-- I don't know, but Suddenly my heartbeat has increased. ⁄⁠(⁠⁄⁠ ⁠⁄⁠•⁠⁄⁠-⁠⁄⁠•⁠⁄⁠ ⁠⁄⁠)⁠⁄
 
 - Health = ✔
 - Motivation = ✔
