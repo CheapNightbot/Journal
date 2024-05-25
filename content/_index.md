@@ -6,6 +6,13 @@ draft = false
 
 <!-- NEW POST ON TOP -->
 
+## {{ date_format(date="2024-05-25") }} <(￣︶￣)>
+> {{ date_format_journal(date="2024-05-25T12:10:41") }}
+
+- Me submitted "Problem Set 0" for the "Week 0 - Scratch. (\〜￣▽￣)\〜
+- Aaaaaaaaaaaa! 'Cause of potato PC and very very frequent power cuts, it took me this long to submit it. ｡ﾟ･ (>﹏<) ･ﾟ｡
+- So, it's a simple top-down car game. Why explain here? [Check instead here](https://scratch.mit.edu/projects/1012685497) ! ଘ(੭ˊ꒳​ˋ)੭✧
+
 ## {{ date_format(date="2024-05-21") }} (⁠ ⁠；⁠∀⁠；⁠) hehe.. 
 > {{ date_format_journal(date="2024-05-21T04:11:54") }}
 
@@ -20,7 +27,6 @@ draft = false
     - AND, they got interviewed + passed the interviews + everything okie + made it to the final, BUT !! DIDN'T GET A JOB... ༼⁠;⁠´⁠༎ຶ⁠ ⁠۝ ⁠༎ຶ⁠༽
 - Like they say in Western culture nowadays, "I'm cooked". I think I have gotten the rights to say that (even though I have no idea what it really means). XD
 - Like, someone, that big, applying to 5000 jobs, in under half year and still not getting hired and keep applying... Then, I am just a small potato, applied to one job, I don't know what's going to happen. (⁠ ⁠；⁠∀⁠；)
-
 
 ## {{ date_format(date="2024-05-20") }} (´,,•ω•,,)
 > {{ date_format_journal(date="2024-05-20T11:58:46") }}
