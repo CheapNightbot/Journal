@@ -6,10 +6,20 @@ draft = false
 
 <!-- NEW POST ON TOP -->
 
+## {{ date_format(date="2024-05-29") }} (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)
+> {{ date_format_journal(date="2024-05-29T07:43:02") }}
+
+- Submitted "Problem Set 1" for the "Week 1 - C". ( •̀ .̫ •́ )✧
+- There were 3 problems to solve and submit. Though, I submitted the other two problems way earlier than this. (^///^)
+- As there were two versions(?) of a problem (only need to do one), at first I found the first version kind of confusing. And honestly, the second version was so so interesting. (☆ω☆)
+- BUT, I found myself hitting the wall while trying to solve the second version of problem. So, finally ended up doing the first version. (o_ _)ﾉ彡☆
+- And after taking a sleep, the first version did make sense and *It took me **1 hour 0 minute 6 second** to solve and submit it*. (｡・//ε//・｡)
+- Aaaaaa-! I love ♡(ɔˆз(ˆ⌣ˆc) **CS50**!!!
+
 ## {{ date_format(date="2024-05-25") }} <(￣︶￣)>
 > {{ date_format_journal(date="2024-05-25T12:10:41") }}
 
-- Me submitted "Problem Set 0" for the "Week 0 - Scratch. (\〜￣▽￣)\〜
+- Me submitted "Problem Set 0" for the "Week 0 - Scratch". (\〜￣▽￣)\〜
 - Aaaaaaaaaaaa! 'Cause of potato PC and very very frequent power cuts, it took me this long to submit it. ｡ﾟ･ (>﹏<) ･ﾟ｡
 - So, it's a simple top-down car game. Why explain here? [Check instead here](https://scratch.mit.edu/projects/1012685497) ! ଘ(੭ˊ꒳​ˋ)੭✧
 
