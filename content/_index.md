@@ -1,10 +1,24 @@
 +++
 title = "Nerdsomeness - Journal"
-date = 2024-04-01
 draft = false
 +++
 
 <!-- NEW POST ON TOP -->
+
+## {{ date_format(date="2024-08-06") }} ♡〜٩( ˃́▿˂̀ )۶〜♡
+> {{ date_format_journal(date="2024-08-06T08:40:06") }}
+
+- Aaaaaaa~! Finally me back writting my Journal !!!! (｡T ω T｡)
+- Due to a lot of things happening, I couldn't write my Journal.
+- Anyway!
+- I have a lot to write, but let's forget the past and write about today!
+- So, just (it's been an hour) submited my assignments/problem set for the Week 5 (ahm- 0 index so to speak!) and I feel like a wizard yet "nothing is magic. everything is where you expect it to be.".
+- The thing is, I was little afraid and nervous for the "Speller" one. But I was able to solve it in under a day, in one sitting.
+    - And what makes me feel "wizard" is, my implementation, though was taking `0.07` total time in compare to staff's implementation taking `0.05`. BUT, where staff's implementation was taking `0.01` in unload, mine takes `0.00`. <(￣︶￣)>
+- Ow, I noticed some things have changed in **Zola** (the SSG I am using!) as it didn't work right away after cloning the repo and running *zola serve*. (҂⌣̀_⌣́)
+    - It was showing errors. So I had to change few configs. [ ± _ ± ]
+    - But me happy that I had wrote *bash scripts* for automating Journal & Blog entries. That's why I didn't have to figure it out how to start my Journal after not writting it for quite a while.
+    - Just run script and it opens **vim** with everything ready for me to start writting. (⁄ ⁄•⁄ω⁄•⁄ ⁄)
 
 ## {{ date_format(date="2024-05-29") }} (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)
 > {{ date_format_journal(date="2024-05-29T07:43:02") }}

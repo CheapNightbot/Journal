@@ -3,7 +3,7 @@ title = "Nerdsomeness"
 description = "Hey welcome, I am Nerdsomeness, and this is my corner of the internet where I share my thoughts and daily ins & outs."
 compile_sass = false
 minify_html = true
-generate_feed = true
+generate_feeds = true
 default_language = "en"
 theme = "anemone-ness"
 
