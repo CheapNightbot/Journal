@@ -37,7 +37,7 @@ draft = false
 - Aaaaaaaaaaaa! 'Cause of potato PC and very very frequent power cuts, it took me this long to submit it. ｡ﾟ･ (>﹏<) ･ﾟ｡
 - So, it's a simple top-down car game. Why explain here? [Check instead here](https://scratch.mit.edu/projects/1012685497) ! ଘ(੭ˊ꒳​ˋ)੭✧
 
-## {{ date_format(date="2024-05-21") }} (⁠ ⁠；⁠∀⁠；⁠) hehe.. 
+## {{ date_format(date="2024-05-21") }} (⁠ ⁠；⁠∀⁠；⁠) hehe..
 > {{ date_format_journal(date="2024-05-21T04:11:54") }}
 
 - I think I cought cold. (⁠〒⁠﹏⁠〒⁠)
@@ -166,9 +166,9 @@ draft = false
 ## {{ date_format(date="2024-04-07") }} (┬┬﹏┬┬)
 > {{ date_format_journal(date="2024-04-07T08:38:14") }}
 
-- I swear to god, I don't remember any time when I felt this useless and hopeless at the same time. (٭°̧̧̧꒳°̧̧̧٭) 
+- I swear to god, I don't remember any time when I felt this useless and hopeless at the same time. (٭°̧̧̧꒳°̧̧̧٭)
 - I feel like crying aloud while banging my head on the wall..（ ; ; ）
-- What else is left in this world? 
+- What else is left in this world?
 
 > {{ date_format_journal(date="2024-04-07T23:54:43") }}
 

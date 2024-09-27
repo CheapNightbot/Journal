@@ -33,12 +33,12 @@ read -p "Would you like to open it? [Y/N] (default: Y): " open
 
 case ${open,,} in
 	y)
-		vim $journal
+		code $journal
 		;;
 	n)
 		exit 0
 		;;
 	*)
-		vim $journal
+		code $journal
 		;;
 esac

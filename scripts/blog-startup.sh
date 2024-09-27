@@ -53,7 +53,7 @@ echo "- Please visit this URL for more info: https://www.getzola.org/documentati
 echo """
 1. FILE (default)
 2. FOLDER
-""" 
+"""
 read -p "Please enter 1 or 2 >>> " choice
 echo
 
@@ -66,13 +66,13 @@ case ${choice} in
 		read -p "Would you like to open it now? [Y/N] (default: Y): " open
 		case ${open,,} in
 			y)
-				vim $path_of_file
+				code $path_of_file
 				;;
 			n)
 				exit 0
 				;;
 			*)
-				vim $path_of_file
+				code $path_of_file
 				;;
 		esac
 		;;
@@ -84,13 +84,13 @@ case ${choice} in
 		read -p "Would you like to open 'index.md' now? [Y/N] (defualt: Y): " open
 		case ${open,,} in
 			y)
-				vim index.md
+				code index.md
 				;;
 			n)
 				exit 0
 				;;
 			*)
-				vim index.md
+				code index.md
 				;;
 		esac
 		;;
@@ -103,13 +103,13 @@ case ${choice} in
 		read -p "Would you like to open it now? [Y/N] (default: Y): " open
 		case ${open,,} in
 			y)
-				vim $path_of_file
+				code $path_of_file
 				;;
 			n)
 				exit 0
 				;;
 			*)
-				vim $path_of_file
+				code $path_of_file
 				;;
 		esac
 		;;
