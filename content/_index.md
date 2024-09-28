@@ -5,6 +5,21 @@ draft = false
 
 <!-- NEW POST ON TOP -->
 
+## {{ date_format(date="2024-09-29") }} (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)
+> {{ date_format_journal(date="2024-09-29T04:19:01") }}
+
+- AAAAAAAAAAAAAAAAAAAAAAAA~!!!!
+- Today is really really really special for me!!!!!!!
+- I never want to forget this day!!!!!!!!!
+- Today. I can say. "I took CS50" !
+- I can not explain how much confident I do feel right now. It's been a long journey and there were a lot of times when I felt like I will not be able to make it. Even thought (somewhat stumid) that CS is not for me that's why I got forced to take Biology. But I am able to prove myself wrong today.
+- As Prof. Malan said, "It's not about where you end up relative to your classmate, but where you end up relative to yourself prior taking this class". And if I look back, it all makes much more sense right now. I did notice as working my way through the course, every next assignment, I found myself thinking more about the "problem" than the "solution".
+    - 'Cause, there are a lot of ways to solve a single problem, but what ultimately matters is "how you approach and solve the problem".
+- I don't know if I make any sense or not..
+- Now, I am left with void and a single thought, "what you want to do now? what can you do to solve world's problems? how can you be worth? what something you can do to bring some value to this world?"...
+- Well, learning never ends..
+- Ow, if I look back to "{{ date_format(date="2024-05-01") }}" when I started CS50, it's been **152 days** OR **4 months, 29 days**.
+
 ## {{ date_format(date="2024-08-06") }} ♡〜٩( ˃́▿˂̀ )۶〜♡
 > {{ date_format_journal(date="2024-08-06T08:40:06") }}
 
