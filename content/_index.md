@@ -11,14 +11,14 @@ draft = false
 - Woah~! This year is so close to the end.. can't believe. (ToT)/~~~
 - Ow, btw, forgot to write earlier; I wanted to document my CS50 journey, but couldn't cause of personal/family issues. /_ \ anyway...
 - Now, the thing is, for so long I wanted to create my own music player!!!!!! ♪(´▽｀)
-    - I don't remember for how long. Like, it's has been the ultimate goal and dream of mine, but couldn't get my feet wet. OwO
+    - I don't remember for how long. Like, it has been the ultimate goal and dream of mine, but couldn't get my feet wet. OwO
     - Well, did try to make it happen, but really I had no such tools in my toolbox to make it happen. (#_<-)
     - So, now I do have such tools, but still it's unclear which one to use. O.O
 - The problem is there is no right answer!! \`(\*>﹏<\*)′
-    - I mean, there is no one way and tool to solve this problem. I can litrally create a PWA or something similar and be done with it. (ˉ▽ˉ；)...
+    - I mean, there is no one way and tool to solve this problem. I can literally create a PWA or something similar and be done with it. (ˉ▽ˉ；)...
     - But I don't want to create a web app (there are alreay so many) !! I want to creat a native desktop application (software!) !! ( •̀ ω •́ )✧
     - AND THERE IS NO CLEAR ANSWER! (ˉ▽ˉ；)...
-- At the moment, I don't clear about any other OS than Windows. (. ❛ ᴗ ❛.)
+- At the moment, I don't care about any other OS than Windows. (. ❛ ᴗ ❛.)
     - If I look at ways to solve this problem for Windows alone, there are so many way; UWP, .NET, Win32, MFC... aaaaaaaaaaaa~!!!!!! ε=ε=ε=┏(゜ロ゜;)┛
     - And looking at these, I have no idea what to do !!!! (ˉ﹃ˉ)
 - So, really the challage now is to; first choose the right tool and at least be able to show something on screen. (￣m￣）
