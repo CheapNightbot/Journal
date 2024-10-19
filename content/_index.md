@@ -5,6 +5,34 @@ draft = false
 
 <!-- NEW POST ON TOP -->
 
+## {{ date_format(date="2024-10-19") }} ( ˶˘ ³˘(⋆❛ ہ ❛⋆)!♡
+> {{ date_format_journal(date="2024-10-19T08:25:49") }}
+
+- Aaaaaaa ~ !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! q(≧▽≦q)
+- I don't know why me not being able to write everyday.. (#_<-)
+- Anywa ~!
+- **Yesterday** me got "alum role" (i.e., graduate of CS50) role on **Discord** !! ε=ε=ε=(\~￣▽￣)\~
+    - But notice late night.
+    - Ow, me answered / welped some of the students / classmates (?) there and it was the greatest feeling to have... (\*≧︶≦))(￣▽￣\* )ゞ
+- Me think, me also have got similar role (?) on **Reddit** as well, but this boiled potato habe no idea about **Reddit** and what to do there... \_(:з)∠)\_
+- Ow, but the question is, "what me doin & why not writing?"
+    - Me WANT TO WRITE !!!! (;´༎ຶД༎ຶ`)
+- Anywa, I'm doing **CS50P** as suggested by one of the mentor/alum. ( \*^-^)ρ(^0^\*)
+- So, me seriously doing one weeks stuff in one - two days. (๑•̀ㅂ•́)و✧
+- THAT IS WHY! /(ㄒoㄒ)/\~\~
+- Ow, also about dat "Windows Native App" development: OwO
+    - Me did read da Microsoft Docs related to dat and HONESTLY "Microsoft Docs" are the biggest rabbit holes !!!
+    - ME NOT COMPLAINING ~!!!
+    - If you go to read something, it link/redirect/or similar to some other Docs within Microsoft Docs and that too will assume you read some other doc and that other will redirect to some other docs, like Aaaaaaaaaaaaaaaaa!!!!!! ヾ(≧へ≦)〃
+    - AND THEN, you will either get lost as why you even got to Microsoft Docs or (if you like me) Will End Up with so many tabs that Microsoft Edge will crash (yosh, I use dat ~!!) and you become boiled potato !!!!
+- SOMEONE (。>︿<)_θ welp !
+- Waito... !!!! Something else also did happen **`Yesterday--`** (before yesterday !!), hehe... (\*/ω＼\*)
+    - Me not goning to tell ~!!! But it due to "X" ! (.///.)
+    - I got to talk to them !!! AAAAAAAAAAAAAAA~!!!!!!!!!!! o(\*/**//**/▽/**//**/\*)o
+    - I was so afraid and in doubt cause of "X" !!! ヾ(≧へ≦)〃
+    - So, me posted in hasitation (? I don't know a better word TwT) that what to do... Me was seriously afraid of A LOT of things !! TwT
+    - But me was trembling after that.. that wasn't even able to type on keyboard !! (/ω＼\*)……… (/ω•＼\*) aaa- wat am I doing ando sayin...
+
 ## {{ date_format(date="2024-10-01") }} \_(:з)∠)\_
 > {{ date_format_journal(date="2024-10-01T09:19:04") }}
 
