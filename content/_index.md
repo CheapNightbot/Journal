@@ -5,6 +5,20 @@ draft = false
 
 <!-- NEW POST ON TOP -->
 
+## {{ date_format(date="2024-10-20") }} (┬┬﹏┬┬)
+> {{ date_format_journal(date="2024-10-20T09:39:39") }}
+
+- Thankfully it's Sunday today, cause I was awake da whole "freakin last night.png" (till now) !!! (￣m￣）
+- Why? O.O
+    - So many reasons ~!!!!!!! (´ｰ∀ｰ`)
+- Me was trying to help someone on da Discord server (yosh, cs50 !!) regarding the WSL baka ~!!
+    - I couldn't really get what was wrong for hours. Like, everything was correct, but nothing was correct ! \_(:з)∠)\_
+    - Me really wanted to welp !!! ＞︿＜
+    - Me shamelessly even asked for helping via "Quick Assist" (me hate myself!!) and they said "okie", but baka "Quick Assist" didn't even start on their end. (ｏ ‵-′)ノ”(ノ﹏<。)
+    - "NO", me couldn't help / solve da problem. ~(>_<。)＼
+- Now if me think about it, I really feel embarrassed ~ !! \_(:з)∠)\_
+- Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa ~ !! つ﹏⊂
+
 ## {{ date_format(date="2024-10-19") }} ( ˶˘ ³˘(⋆❛ ہ ❛⋆)!♡
 > {{ date_format_journal(date="2024-10-19T08:25:49") }}
 
