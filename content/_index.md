@@ -5,7 +5,7 @@ draft = false
 
 <!-- NEW POST ON TOP -->
 
-## {{ date_format(date="2024-10-21") }} (｡>\\\<)
+## {{ date_format(date="2024-10-21") }} (｡>//<)
 > {{ date_format_journal(date="2024-10-21T10:16:45") }}
 
 - Aaaaaaaaaaaaaaaaaa ~!!!!!! Me so so // very very happy today da right now ~ (/≧▽≦)/
@@ -24,11 +24,11 @@ draft = false
     - I'll not have to cry for others,
     - I'll not have to feel sorry for the things I never done,
     - I'll not have to live with regrets,
-    - I'll not have live with this feeling/fear that what if I'll not be able to meet them again, ever ~
+    - I'll not have to live with this feeling/fear that what if I'll not be able to meet them again, ever ~
 - What if we never met ?
 - I don't want to suffer again.
 - (っ╥╯﹏╰╥c)
-- *Didn't you promise to not do it again? What happend? How shameless are you... Is it this easly for "humans" to forget everything and break promises? You better be a bot in your next life then .*
+- "*Didn't you promise to not do it again? What happend? How shameless are you... Is it this easly for "humans" to forget everything and break promises? You better be a bot in your next life then .*
 
 ## {{ date_format(date="2024-10-20") }} (┬┬﹏┬┬)
 > {{ date_format_journal(date="2024-10-20T09:39:39") }}
