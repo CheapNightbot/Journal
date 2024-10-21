@@ -5,7 +5,7 @@ draft = false
 
 <!-- NEW POST ON TOP -->
 
-## {{ date_format(date="2024-10-21") }} (｡>\\<)
+## {{ date_format(date="2024-10-21") }} (｡>\\\<)
 > {{ date_format_journal(date="2024-10-21T10:16:45") }}
 
 - Aaaaaaaaaaaaaaaaaa ~!!!!!! Me so so // very very happy today da right now ~ (/≧▽≦)/
