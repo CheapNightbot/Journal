@@ -5,6 +5,30 @@ draft = false
 
 <!-- NEW POST ON TOP -->
 
+## {{ date_format(date="2024-10-21") }} (｡>\\<)
+> {{ date_format_journal(date="2024-10-21T10:16:45") }}
+
+- Aaaaaaaaaaaaaaaaaa ~!!!!!! Me so so // very very happy today da right now ~ (/≧▽≦)/
+- "Friends", thank you sooooooooooo much !!!!!!!!!! (/ω＼\*)………
+- Me nothing still..............
+- Ow, also, me don't know why, but I find myself repeating the same mistake again and again.. (。﹏。\*)
+    - You know the only "unfunny" post me saw from a "meme account" ever was this:
+> "Do not get obsessed with the people you meet online".
+- I am sorry to past self ~! (。_。)
+- I don't think anything else is left to say for today. (。_。)
+- Well, this is how I am and why am I... ?
+    - I care about people a lot !
+- Why do humans have feelings ? (┬┬﹏┬┬)
+    - Ow, maybe that's why we called "humans", right ? （\*゜ー゜\*）
+- I really wish to become a bot in my next life !!!!!!!!!!!!!!!
+    - Then I'll not have to worry about others,
+    - I'll not have to cry for others,
+    - I'll not have to feel sorry for the things I never done,
+    - I'll not have to shy to say the things...,
+    - I'll not have to live with regerts,
+    - I'll not have live with this feeling that I'll not be able to meet them again, ever ~
+- (っ╥╯﹏╰╥c)
+
 ## {{ date_format(date="2024-10-20") }} (┬┬﹏┬┬)
 > {{ date_format_journal(date="2024-10-20T09:39:39") }}
 
