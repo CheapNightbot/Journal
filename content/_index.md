@@ -5,7 +5,7 @@ draft = false
 
 <!-- NEW POST ON TOP -->
 
-## {{ date_format(date="2024-10-26") }} :EMOJI:
+## {{ date_format(date="2024-10-26") }} /ᐠ｡ꞈ｡ᐟ\ nya\~?
 > {{ date_format_journal(date="2024-10-26T03:10:22") }}
 
 - Aaaaaaaaaaaaaaaaaaaaaaaaa~ !!!!!!!!!!!!!! ヾ(≧▽≦\*)o
