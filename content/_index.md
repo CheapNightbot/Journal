@@ -5,6 +5,17 @@ draft = false
 
 <!-- NEW POST ON TOP -->
 
+## {{ date_format(date="2024-10-26") }} :EMOJI:
+> {{ date_format_journal(date="2024-10-26T03:10:22") }}
+
+- Aaaaaaaaaaaaaaaaaaaaaaaaa~ !!!!!!!!!!!!!! ヾ(≧▽≦\*)o
+- Me just finished **CS50P** !!! (๑•̀ㅂ•́)و✧
+    - Me started it on "{{ date_format(date="2024-10-01") }}" ando *technically* finished on "{{ date_format(date="2024-10-25") }}". (￣m￣）
+    - So, it took me **25 days** to finish ! ~(￣▽￣)~\*
+- Ow, me was also working back and forth on personal project "[**yutify**]("https://github.com/CheapNightbot/yutify/)" ando for the first time in ma life (ig), me got a star on in ~!!!!! OwO
+    - Me it on "{{ date_format(date="2024-10-10") }}". > <
+- Ow, me got new fwends as well (me wrote before?), so me happy ~!!! o(\*////▽////\*)q
+
 ## {{ date_format(date="2024-10-21") }} (｡>//<)
 > {{ date_format_journal(date="2024-10-21T10:16:45") }}
 
