@@ -12,9 +12,9 @@ draft = false
 - Me just finished **CS50P** !!! (๑•̀ㅂ•́)و✧
     - Me started it on "{{ date_format(date="2024-10-01") }}" ando *technically* finished on "{{ date_format(date="2024-10-25") }}". (￣m￣）
     - So, it took me **25 days** to finish ! \~(￣▽￣)\~\*
-- Ow, me was also working back and forth on personal project "[**yutify**](https://github.com/CheapNightbot/yutify/)" ando for the first time in ma life (ig), me got a star on in ~!!!!! OwO
-    - Me it on "{{ date_format(date="2024-10-10") }}". > <
-- Ow, me got new fwends as well (me wrote before?),
+- Ow, me was also working back and forth on personal project "[**yutify**](https://github.com/CheapNightbot/yutify/)" ando for the first time in ma life (ig), me got a star on it ~!!!!! OwO
+    - Me got it on "{{ date_format(date="2024-10-10") }}". > <
+- Ow, me got new **fwend** as well (me wrote before?),
     - so me happy ~!!! o(\*////▽////\*)q
 
 ## {{ date_format(date="2024-10-21") }} (｡>//<)
