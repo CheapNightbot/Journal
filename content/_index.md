@@ -11,7 +11,7 @@ draft = false
 - Yestary me got one more star on [yutify](https://github.com/CheapNightbot/yutify) ~ (￣▽￣)"
     - Around or really at 9:31 PM (p≧w≦q)
     - Now have two starts OwO !!
-    - Ow, it seems that today at 1:52, they forked it as well. q(≧▽≦q)
+    - Ow, it seems that today at 1:52 AM, they forked it as well. q(≧▽≦q)
 - Aaaaaaaaaaaaaaaaaaaaaaaaaaa ~!!!!!!!!!!!!!!!!!!!! []\~(￣▽￣)\~\*
 
 ## {{ date_format(date="2024-11-18") }}  ｡:ﾟ(｡ﾉω＼｡)ﾟ･｡
