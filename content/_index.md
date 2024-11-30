@@ -5,6 +5,23 @@ draft = false
 
 <!-- NEW POST ON TOP -->
 
+## {{ date_format(date="2024-12-01") }} \_(:3 」∠)\_
+> {{ date_format_journal(date="2024-12-01T06:22:23") }}
+
+- Only one month left in this year, aaaaaaaaaaaaaaaaa ~!!!!!! (ʘ言ʘ╬)
+- Me habe accomplished a lot this year, but still feel like me did nomthing ando da year ending way too early ! (・_・ヾ
+- Ow, made "friend" as well ~ (⁄ ⁄•⁄ω⁄•⁄ ⁄)
+    - So happy !!!!!!!!! (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)
+- Waito, why me writing like this the last day of this year (´• ω •) ?
+    - Me think me really a boiled potato ! (｡T ω T｡)
+- I WANT TO MAKE MORE FWENDS, BUT EVERYONE HATES ME ! (ｏ ‵-′)ノ”(ノ﹏<。)
+- Ow, yu suggested me "Hugo" ando "Ghost" for website ! Σ>―(〃°ω°〃)♡→
+    - Me looked at them ~ (///￣ ￣///)
+    - **Hugo** is da same thing as me using right now (**Zola** !!), so it made no sense to switch to that as me already familiar ando efficient with **Zola**. Like everything is setup and work as expected. Also made bash scripts for creating/starting the blog and journal. So, switching to **Hugo** will break everything ando me habe to learn that as well. (oT-T)尸
+    - Ando, **Ghost** kun ~ scary !!! |▽//)
+    - Me mean, can't use it since no domain ando hosting. It require such thing (for self-host) ando money for using their hosting. ( ; ω ; )
+- Me don't know what to do at this point.. help ~ o(TヘTo)
+
 ## {{ date_format(date="2024-11-19") }} ヾ(≧ ▽ ≦)ゝ
 > {{ date_format_journal(date="2024-11-19T07:08:37") }}
 
