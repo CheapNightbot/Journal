@@ -5,6 +5,17 @@ draft = false
 
 <!-- NEW POST ON TOP -->
 
+## {{ date_format(date="2024-12-15") }} (｡•̀ᴗ-)✧
+> {{ date_format_journal(date="2024-12-15T20:28:03") }}
+
+- Aaaaaaaaaaaaaaaaaaaaaaa ~!!!!!!! ヾ(≧▽≦\*)o
+- Today me got ["**Responsive Web Design Certification**"](https://www.freecodecamp.org/learn/2022/responsive-web-design/) [certificate(?)](https://www.freecodecamp.org/certification/CheapNightbot/responsive-web-design) from da freeCodeCamp ! q(≧▽≦q)
+- Um, nothim else interesting happening except me keep learning ando doin ma besto in everything ~ (⁄ ⁄•⁄ω⁄•⁄ ⁄) hm hm !!
+- Ow, me realised that last time me wrote journal was also Sunday (๑>◡<๑)
+    - Nice nice ~ ┬┴┬┴┤･ω･)ﾉ
+- Ah~ me also created [ko-fi](https://ko-fi.com/cheapnightbot) page !!! /ᐠ ⎚ﻌ⎚マฅ
+    - Wat can this (boiled) potato kid do ? (,,>﹏<,,)
+
 ## {{ date_format(date="2024-12-01") }} \_(:3 」∠)\_
 > {{ date_format_journal(date="2024-12-01T06:22:23") }}
 
