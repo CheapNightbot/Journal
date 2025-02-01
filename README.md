@@ -2,9 +2,11 @@
 
 > My Journal &amp; Blog ~ Made with Zola
 
+It contains bash script(s) to quickly create and start writing blog post or journal with timestamp and other stuff configured. <⁠(⁠￣⁠︶⁠￣⁠)⁠>
+
 This repository contains the Zola site code, not the actual site itself.
 
-The main site will be deployed and can be found at []().
+The main site will be deployed and can be found at [nerdsomeness.pages.dev](https://nerdsomeness.pages.dev/).
 
 ***
 
