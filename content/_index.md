@@ -5,6 +5,21 @@ draft = false
 
 <!-- NEW POST ON TOP -->
 
+## {{ date_format(date="2025-02-09") }} (⸝⸝๑﹏๑⸝⸝)
+> {{ date_format_journal(date="2025-02-09T21:46:03") }}
+
+- Waaaaaaaaaaaaaaa- !!!!!!!!!! (╯'□')╯︵ ┻━┻
+- So now this is the first journal of this year (sadly). /ᐠ˵- ⩊ -˵マ
+    - Me wanted to write from 1st Jan, with daily consistensy. ( •̯́ ₃ •̯̀)
+    - But baka PC-kun again wasn't by my side. It again (kind of) died. (ｏ・_・)ノ”(ノ_<、)
+    - Then health was also not that greato ~ ꩜ .ᐟ
+- Any da way~ (￣▽￣*)ゞ
+- The thing is, **today me applied to an internship** !!!!! ٩(^ᗜ^ )و ´- yatta ~
+    - Nerous + excited = I want to die ~ www- ･ﾟ･(｡>ω<｡)･ﾟ･
+- Ow, also, me made [yutify](https://yutify.onrender.com/) much better, but same from backend, lol. (・_・ヾ
+    - But yea, from front-end, looks nice nice da cool cool ~ （∠·ω<)~★
+- Me really want to create a lot of things! I want to code 24/7, but aaaaa- \_(:3」∠)\_
+
 ## {{ date_format(date="2024-12-15") }} (｡•̀ᴗ-)✧
 > {{ date_format_journal(date="2024-12-15T20:28:03") }}
 
