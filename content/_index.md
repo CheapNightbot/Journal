@@ -5,6 +5,34 @@ draft = false
 
 <!-- NEW POST ON TOP -->
 
+## {{ date_format(date="2025-02-11") }} /ᐠ˵- ⩊ -˵マ
+> {{ date_format_journal(date="2025-02-11T21:20:28") }}
+
+- 喵~ /ᐠ｡ꞈ｡ᐟ\
+- Me had rate limiting in [yutify](https://github.com/Cheapnightbot/yutify). ₍^. .^₎⟆
+    - It is hosted on [Render](https://render.com/). ── .✦
+    - But the server sees every request coming from localhost (127.0.0.1). (ᵕ—ᴗ—)
+    - So, (yestarday late night) contacted Render support for welp~ ฅ^>⩊<^ฅ
+    - Ando, OMG, they replied !!! ٩(ˊᗜˋ*)و ♡
+    - Ma question was stumid (ig), but they gave the solution (like do this- this.. etc.). (๑ > ᴗ < ๑)
+    - Aaaaaaaaaaaaaaaa, thank yu~ but me haven't tried it yet. |˶˙ᵕ˙ )ﾉﾞ
+    - Cause me working on different git branch and can't publish/merge until complete, so can't test on server... ( •̯́ ₃ •̯̀)
+- Didn't do much today ~ ⁄(⁄ ⁄•⁄-⁄•⁄ ⁄)⁄
+- Ow, yea.. learned more about python flask.. ദ്ദി ˉ͈̀꒳ˉ͈́ )✧
+    - The flask extension system is sooo cool. (づ> v <)づ♡
+    - These people are so cooooooool.. ( ˶˘ ³˘(ˊᗜˋ*)!♡
+    - It's so simple, but yet powerful. ᕙ(⇀‸↼‶)ᕗ
+- Me hate Django (can't even pronounce correctly)... "૮₍  ˶•⤙•˶ ₎ა
+- Also, me created [Doors 11](https://cheapnightbto.github.io/cheapnightbot/Doors-11/) few days ago wen me bored !! ꉂ (≧ヮ≦)
+    - www
+    - Ando posted (first? not really~) [video on YouTube](https://www.youtube.com/watch?v=OUYerzVPiIg) as well.. (˶˃ ᵕ ˂˶) .ᐟ.ᐟ
+- Aaaaaaaaa, me forgot- (っ º - º ς)
+    - Me made mistake while filling & submitting the internship form.... !!!!!!!! (,,>﹏<,,)
+    - In the last page (ig), me accidently pressed da "enter/return" key while filling it-.. (˵ ¬ᴗ¬˵)
+    - Ando, \*BOOM\*, it got submitted without me being able to complete it.
+    - WELP ~ (⸝⸝⸝-﹏-⸝⸝⸝)
+- WAT IS GOING TO HAPPEN NOW ???????? AAAAAAAAAAA-.......... \*dies\* ~
+
 ## {{ date_format(date="2025-02-09") }} (⸝⸝๑﹏๑⸝⸝)
 > {{ date_format_journal(date="2025-02-09T21:46:03") }}
 
