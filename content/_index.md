@@ -5,6 +5,34 @@ draft = false
 
 <!-- NEW POST ON TOP -->
 
+## {{ date_format(date="2025-02-14") }} /ᐠ ˵> ˕ <˵マ 喵~
+> {{ date_format_journal(date="2025-02-14T20:05:41") }}
+
+- Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa ~ q(≧▽≦q)
+- So, me been working a website ando created a "splash screen". (´｡• ω •｡`)
+    - It simple white overlay that fads out in 2 seconds~ (＃￣ω￣)
+    - When someone visits the website, it show.	|_・)
+    - BUT, da problem was it was showing all the time- 凸(￣ヘ￣)
+    - Me mean, when navigate through pages or refresh da page, it show - !! (￢_￢;)
+    - Which was annoying ~ 	(；⌣̀_⌣́)
+    - Using JavaScript for the showing - hiding logic btw ~ •⩊•
+- Then, the solution for this me think (as one might think) was:
+    - Use `localStorage` to store a variable (boolean probably!) with value `true`.
+    - Show user the splash screen once ando then set variable to `false`.
+    - If variable `null` or `true`, show splash otherwise don't show.
+- Me thought it will work- ( = ⩊ = )
+    - But didn't work, aaaaaaaaaaaa ~ (｡•̀ ⤙ •́ ｡ꐦ) !!!
+    - Even if it work, you never gonna show the user splash again until they clear the browser history, site data, etc. \_:(´ཀ`」 ∠):\_
+    - Ando, then me thought of setting the variable again to `true` on tab or browser close.
+    - Only thing me could found was `unload` event, but didn't work as it deprecated. (・・;)ゞ
+- Searching online, everyone was seems to be suggesting either same thing or cookies ~ ദ്ദി/ᐠ｡‸｡ᐟ\
+- BUT YU KNOW WAT WAS DA SOLUTION, meow ฅ^ >ヮ<^₎ ?
+    - `sessionStorage` !!!! ♡(˃͈ ˂͈ )
+    - Hm hm, it seems to be similar to `localStorage`, but the thing makes it perfect is:
+    - The data store in it remains to that tab session and gets cleared on that tab close.
+    - Me also didn't notice it getting cleared on page refresh (so far didn't), but can be cleared in some cases, idk ~ (｡Ó﹏Ò｡)
+- Wa- this todays journal was all about "splash screen" ? \*dies from flash..\* \_(:3」∠)\_
+
 ## {{ date_format(date="2025-02-11") }} /ᐠ˵- ⩊ -˵マ
 > {{ date_format_journal(date="2025-02-11T21:20:28") }}
 
