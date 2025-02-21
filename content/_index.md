@@ -5,6 +5,52 @@ draft = false
 
 <!-- NEW POST ON TOP -->
 
+## {{ date_format(date="2025-02-22") }} (๑ > ᴗ < ๑)
+> {{ date_format_journal(date="2025-02-22T06:21:29") }}
+
+- Waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa, meow ~!!!!!!!!! /ᐠ˵- ⩊ -˵マ
+- Yestarday me released a Python package on [pypi](https://pypi.org/project/yutipy/) ~!! ᕙ( •̀ ᗜ •́ )ᕗ
+    - This is the first time me done it. (>/////< " )
+    - Tried before (few years ago), but got overwhelmed by it and couldn't. (⸝⸝⸝>﹏<⸝⸝⸝)
+    - But now me finally did that realized it's not that hard and stuff ! ( ๑ ˃̵ᴗ˂̵)و ♡
+    - AAAAAAAaaaaaaaaaaaaaaaaaaaaa, so happy and proud to be a potato kid !! wwww- (๑≧▽≦๑)o
+- But honestly, hated the sign up process (for a reason !), okie dokie- forget ! (⸝⸝╸-╺⸝⸝)
+- Ow, the package that me released is the [yutipy](https://github.com/CheapNightbot/yutipy). ٩( ᐛ )و
+    - Sounds familiar? ( ≖‿  ≖ )
+    - hm hm, me separated the part which communicates with APIs into separate project ("**separation of concerns**" !!) from yutify, which made it easier to write tests as well ! ദ്ദി/ᐠ｡‸｡ᐟ\
+    - Also it good for long term maintainance ~ ( ˆ𐃷ˆ) .ᐟ.ᐟ
+    - So, then me decided to made it into package for easier use with "yutify" project. •ᴗ•
+- Beside that, now anyone else can use yutipy. ٩(^ᗜ^ )و ´-
+- But someone might think "why use yutipy when there are similar and more feature full + powerful libraries?" ~ (ᵕ—ᴗ—)
+    - That's the point! (ˊ͈ ꒳ ˋ͈)
+    - "yutipy" isn't "feature full" or "powerful", it's "simple" ! (˵ •̀ ᴗ - ˵ ) ✧
+    - Like, you just want to search & retrieve info from music platforms, then why you want to get stuffed with features like login, playlist creation, etc. ∘ ∘ ∘ ( °ヮ° ) ?
+    - All the configurations, setup, etc... so complicated. (¬_¬")
+    - But with "yutipy": install it, import it, use it, you have the info ! That's it.. no setup required, except getting credentials for Spotify and putting them in `.env` file. Rest the library will handle. No need to worry about manally using `python-dotenv` to load them. No need to worry about getting "access token" and stuff.. just search ! ദ്ദി •⩊• )
+- AAAAAAAAAAAAAAAAAAAAAAAAAa- .·°՞(˃ ᗝ ˂)՞°·.
+- Aaniwey ~ (⊙ _ ⊙ )
+- Fun fact: me was awake for almost 24 hours yestardy working on yutipy and releasing it on pypi ... (ˊᵒ̴̶̷̤ ꇴ ᵒ̴̶̷̤ˋ)
+    - As soon as me released it, me went to sleep (sooooooooo sleepy TwT) !! (⸝⸝ᴗ﹏ᴗ⸝⸝) ᶻ 𝗓 𐰁
+    - That why couldn't write yestarday ~ ( ◡̀_◡́)
+
+<pre>
+     _____________________
+    /                     \
+   |      累了，喵~ ｡𖦹°‧   |
+    \_____________________/
+                //
+               //
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀
+⠀⠀⠀⠀⢀⡴⣆⠀⠀⠀⠀⠀⣠⡀⠀⠀⠀⠀⠀⠀⣼⣿⡗⠀⠀⠀⠀
+⠀⠀⠀⣠⠟⠀⠘⠷⠶⠶⠶⠾⠉⢳⡄⠀⠀⠀⠀⠀⣧⣿⠀⠀⠀⠀⠀
+⠀⠀⣰⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣤⣤⣤⣤⣤⣿⢿⣄⠀⠀⠀⠀
+⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧⠀⠀⠀⠀⠀⠀⠙⣷⡴⠶⣦
+⠀⠀⢱⡀⠀⠛⠛⠀⠀⠀⠀⠛⠃⠀⢠⡟⠀⠀⠀⢀⣀⣠⣤⠿⠞⠛⠋
+⣠⠾⠋⠙⣶⣤⣤⣤⣤⣤⣀⣠⣤⣾⣿⠴⠶⠚⠋⠉⠁⠀⠀⠀⠀⠀⠀
+⠛⠒⠛⠉⠉⠀⠀⠀⣴⠟⢃⡴⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠛⠛⠋⠁
+</pre>
+
 ## {{ date_format(date="2025-02-14") }} /ᐠ ˵> ˕ <˵マ 喵~
 > {{ date_format_journal(date="2025-02-14T20:05:41") }}
 
