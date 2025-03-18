@@ -5,6 +5,17 @@ draft = false
 
 <!-- NEW POST ON TOP -->
 
+## {{ date_format(date="2025-03-18") }} (๑•́ ᎔ ก̀๑)
+> {{ date_format_journal(date="2025-03-18T13:47:47") }}
+
+- Yes, me didn't get selected as an intern ~ (´｡• ◡ •｡`)
+- I was awake till 1 AM for the results.. /ᐠ - ˕ -マ
+- Me ~slept~ went to sleep at 2:15 AM- \_(:3」∠)\_
+    - But couldn't sleep for so long (idk then wen fell asleep) ! \_(´ཀ`」 ∠) \_
+- Don't know why felt broken, it's not the end, right (meow) ? ^. .^₎⟆
+- I am doing my best and will be doing the best !! ദ്ദി ˉ͈̀꒳ˉ͈́ )✧
+- ME REALLY WANT TO BE HUGGED RIGHT NOW, meow please ~ !!!! /ᐠ ╥ ˕ ╥マ
+
 ## {{ date_format(date="2025-02-22") }} (๑ > ᴗ < ๑)
 > {{ date_format_journal(date="2025-02-22T06:21:29") }}
 
