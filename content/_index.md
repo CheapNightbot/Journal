@@ -5,6 +5,19 @@ draft = false
 
 <!-- NEW POST ON TOP -->
 
+## {{ date_format(date="2025-05-20") }} (⸝⸝>ᴗ•⸝⸝)
+> {{ date_format_journal(date="2025-05-20T18:22:46") }}
+
+- AAAAAAAAAAAAAAAAAAAAAA-..... (˶˃ ᵕ ˂˶) .ᐟ.ᐟ
+- So me not dead ando still alive ~ ( ⸝⸝´꒳`⸝⸝)
+- Was very busy with stuffs ! ( ꩜ ᯅ ꩜;)⁭ ⁭
+- Ow, yea- applied to another internship (not finished yet) today // x minutes ago ! ٩(^ᗜ^ )و ´-
+    - Ando, honestly, it was the most interesting and challenging (well there was a challenge ~ meow) ! ദ്ദി ˉ͈̀꒳ˉ͈́ )✧
+    - It took two days to finish w (,,>ヮ<,,)!
+- Ah, also... the reason not writing here // not wrote here for almost two months is that me want to create proper site with journal section there (most probably with Astro) ando working on that.. ₍^. .^₎⟆
+    - I thought instead of keep writing here and move all stuff there, why not write directly there.. („• ֊ •„)
+    - wait- wat ? ∘ ∘ ∘ ( °ヮ° ) ?
+
 ## {{ date_format(date="2025-03-18") }} (๑•́ ᎔ ก̀๑)
 > {{ date_format_journal(date="2025-03-18T13:47:47") }}
 
