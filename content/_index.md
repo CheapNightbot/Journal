@@ -2,7 +2,7 @@
 title = "Cheap Nightbot - Journal"
 +++
 
-# Cheap Nightbot Journal
+# <a href="https://cheapnightbot.me">Cheap Nightbot</a> Journal
 
 hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner of the internet where I share my thoughts and daily ins & outs.
 
