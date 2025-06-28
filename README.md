@@ -1,6 +1,6 @@
-# Nerdsomeness
+# Journal (previously Nerdsomeness)
 
-> My Journal &amp; Blog ~ Made with Zola
+> My Journal ~ Made with Zola
 
 It contains bash script(s) to quickly create and start writing blog post or journal with timestamp and other stuff configured. <⁠(⁠￣⁠︶⁠￣⁠)⁠>
 
