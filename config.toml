@@ -1,15 +1,11 @@
-base_url = "https://nerdsomeness.pages.dev/"
-title = "Nerdsomeness"
-description = "Hey welcome, I am Nerdsomeness, and this is my corner of the internet where I share my thoughts and daily ins & outs."
+base_url = "https://journal.cheapnightbot.me"
+title = "Cheap Nightbot - Journal "
+description = "hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner of the internet where I share my thoughts and daily ins & outs."
 compile_sass = false
 minify_html = true
 generate_feeds = true
 default_language = "en"
 theme = "anemone-ness"
-
-taxonomies = [
-    {name = "tags", feed = true},
-]
 
 [markdown]
 render_emoji = true
@@ -30,13 +26,8 @@ internal_level = "warn"
 author = "Cheap Nightbot"
 display_author = true
 
-favicon = "favicon.ico"
+favicon = "favicon.jpeg"
 
-default_theme = "light"
+default_theme = "dark"
 list_pages = false
 twitter_card = true
-
-header_nav = [
-  { url = "/", name_en = "/journal/" },
-  { url = "/blog", name_en = "/blog/" }
-]
