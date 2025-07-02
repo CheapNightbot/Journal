@@ -3,7 +3,7 @@
 # SCRIPT TO CREATE A NEW ENTRY FOR JOURNAL
 
 date_short=$(date +%F)
-date_full=$(date +%F\T%X)
+date_full=$(date +%F\T%T)
 
 content="\n## {{ date_format(date=\"$date_short\") }} :EMOJI:\n> {{ date_format_journal(date=\"$date_full\") }}\n\n- "
 
