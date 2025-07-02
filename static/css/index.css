@@ -1,3 +1,7 @@
+* {
+  transition: all .6s cubic-bezier(0.215, 0.610, 0.355, 1);
+}
+
 .floating {
     position: fixed;
     right: 1%;
