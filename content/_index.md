@@ -27,6 +27,35 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
 
 <!-- NEW POST ON TOP -->
 
+## {{ date_format(date="2025-07-03") }} ૮₍´˶• . • ⑅ ₎ა
+> {{ date_format_journal(date="2025-07-03T04:29:36") }}
+
+- AAAAAAAAAAAAAAAAAAAAAAAAAA~ !!!! (つ≧▽≦)つ
+- Okie, finally [yutify](https://github.com/CheapNightbot/yutify) finished !!
+    - Me mean, there's always places to improve it, there might be some unknown bugs, etc... (⸝⸝ᵕᴗᵕ⸝⸝)
+    - But it has everything needed ando works as expected ! ( ๑ ˃̵ᴗ˂̵)و ♡
+- Ow, waito ~ did me tell **me bought a domain** ?? OwO
+- WAAAAAAAAAA- how can me forget ( ˶°ㅁ°) !!!!?????
+- So, yea... me bought domain !!! ( • ̀ω•́ )✧
+    - [**https://cheapnightbot.me**](https://cheapnightbot.me) !!!!! ˎˊ˗
+    - It only for 1 year ~ (˵ ¬ᴗ¬˵)
+- Wat else ∘ ∘ ∘ ( °ヮ° ) ????
+- ow ow.. also, created personal website using [Astro](https://astro.build) (FINALLY !!!) ~ ฅ^>⩊<^ ฅ
+    - like, it still not complete.. but me learning ando building it at the same time.. („• ֊ •„)੭
+    - nice nice // cool cool !! ദ്ദി(ᵔᗜᵔ)
+- Also, yestarday when updated/deployed the yutify.. the GitHub listening activity SVG was not updating. (¬`‸´¬)
+    - Me was like why !! it my issue or GitHub ?? (｡·  v  ·｡) ?
+    - Me knew GitHub caches images in readme file, but i had `no-store` "Cache-Control` header set !  (っ'ヮ'c)
+    - Yosh, `no-store`, **NOT** the `no-cache` !! •ᴗ•
+        - As mentioned in the MDN docs:
+        > "Note that no-cache does not mean "don't cache". no-cache allows caches to store a response but requires them to revalidate it before reuse. If the sense of "don't cache" that you want is actually "don't store", then no-store is the directive to use."
+    - Then search [on StackOverflow](https://stackoverflow.com/questions/26898052/how-to-force-image-cache-update-in-readme-rst-on-github) ando this was the solution:
+        - ```bash
+          curl -X PURGE {url of cached image}
+          ```
+    - Like, waaaaaaaaaaaaaaaaaaa- !! yu don't know how many times me force refresh browser, update header, etc. !!!! BAKA !! (¬_¬")
+- AAAAAAAAAAAAAA~ okie, BYE !!!! /ᐠ ˵> ˕ <˵マ
+
 ## {{ date_format(date="2025-05-20") }} (⸝⸝>ᴗ•⸝⸝)
 > {{ date_format_journal(date="2025-05-20T18:22:46") }}
 
