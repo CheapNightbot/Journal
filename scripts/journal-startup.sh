@@ -11,7 +11,7 @@ content="\n## {{ date_format(date=\"$date_short\") }} :EMOJI:\n> {{ date_format_
 # Like, if you ran the script from the root of the Blog: './scripts/journal-startup.sh'.
 if [[ -f ../content/_index.md ]]; then
 	journal='../content/_index.md'
-elif [[ -f content/journal.md ]]; then
+elif [[ -f content/_index.md ]]; then
 	journal='content/_index.md'
 else
 	echo "Couldn't find the '_index.md' within the context of your current working directory!"
