@@ -14,10 +14,26 @@
     {% endfor %}
     <div>
       <input type="checkbox" id="theme-toggle" style="display: none;">
-      <label for="theme-toggle" id="theme-toggle-label"><svg id="theme-icon" class="icons"><use href="{{ get_url(path='/icons.svg#lightMode', trailing_slash=false) | safe }}"></use></svg></label>
+        <img id="theme-icon" src="https://media.tenor.com/-ZYOMJWw_2UAAAAi/cat-cute.gif" alt="cat paw">
+      </label>
       <audio id="theme-sound">
-        <source src="{{ get_url(path='click.ogg', trailing_slash=false) | safe }}" type="audio/ogg">
+        <source src="{{ get_url(path='nya.mp3', trailing_slash=false) | safe }}" type="audio/ogg">
+      </audio>
+    </div>
+  </nav>
+{% else %}
+  <nav id="nav-bar">
+    <div>
+      <input type="checkbox" id="theme-toggle" style="display: none;">
+      <label for="theme-toggle" id="theme-toggle-label" class="floating">
+        <img src="https://media.tenor.com/-ZYOMJWw_2UAAAAi/cat-cute.gif" alt="cat paw">
+      </label>
+      <audio id="theme-sound">
+        <source src="{{ get_url(path='nya.mp3', trailing_slash=false) | safe }}" type="audio/ogg">
       </audio>
     </div>
   </nav>
 {% endif %}
+<span id="theme-icon" style="display: none;">
+  <use href="{{ get_url(path='/icons.svg#lightMode', trailing_slash=false) | safe }}"></use>
+</span>
