@@ -27,7 +27,9 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
 
 <!-- NEW POST ON TOP -->
 
-## {{ date_format(date="2025-07-03") }} ૮₍´˶• . • ⑅ ₎ა
+<article data-date="2025-07-03">
+
+## {{ date_format(date="2025-07-03") }} ૮₍´˶• . • ⑅ ₎ა {#2025-07-03}
 > {{ date_format_journal(date="2025-07-03T04:29:36") }}
 
 - AAAAAAAAAAAAAAAAAAAAAAAAAA~ !!!! (つ≧▽≦)つ
@@ -56,7 +58,11 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
     - Like, waaaaaaaaaaaaaaaaaaa- !! yu don't know how many times me force refresh browser, update header, etc. !!!! BAKA !! (¬_¬")
 - AAAAAAAAAAAAAA~ okie, BYE !!!! /ᐠ ˵> ˕ <˵マ
 
-## {{ date_format(date="2025-05-20") }} (⸝⸝>ᴗ•⸝⸝)
+</article>
+
+<article data-date="2025-05-20">
+
+## {{ date_format(date="2025-05-20") }} (⸝⸝>ᴗ•⸝⸝) {#2025-05-20}
 > {{ date_format_journal(date="2025-05-20T18:22:46") }}
 
 - AAAAAAAAAAAAAAAAAAAAAA-..... (˶˃ ᵕ ˂˶) .ᐟ.ᐟ
@@ -69,7 +75,11 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
     - I thought instead of keep writing here and move all stuff there, why not write directly there.. („• ֊ •„)
     - wait- wat ? ∘ ∘ ∘ ( °ヮ° ) ?
 
-## {{ date_format(date="2025-03-18") }} (๑•́ ᎔ ก̀๑)
+</article>
+
+<article data-date="2025-03-18">
+
+## {{ date_format(date="2025-03-18") }} (๑•́ ᎔ ก̀๑) {#2025-03-18}
 > {{ date_format_journal(date="2025-03-18T13:47:47") }}
 
 - Yes, me didn't get selected as an intern ~ (´｡• ◡ •｡`)
@@ -80,7 +90,11 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
 - I am doing my best and will be doing the best !! ദ്ദി ˉ͈̀꒳ˉ͈́ )✧
 - ME REALLY WANT TO BE HUGGED RIGHT NOW, meow please ~ !!!! /ᐠ ╥ ˕ ╥マ
 
-## {{ date_format(date="2025-02-22") }} (๑ > ᴗ < ๑)
+</article>
+
+<article data-date="2025-02-22">
+
+## {{ date_format(date="2025-02-22") }} (๑ > ᴗ < ๑) {#2025-02-22}
 > {{ date_format_journal(date="2025-02-22T06:21:29") }}
 
 - Waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa, meow ~!!!!!!!!! /ᐠ˵- ⩊ -˵マ
@@ -126,7 +140,11 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
 ⠀⠀⠀⠀⠀⠀⠀⠀⠛⠛⠋⠁
 </pre>
 
-## {{ date_format(date="2025-02-14") }} /ᐠ ˵> ˕ <˵マ 喵~
+</article>
+
+<article data-date="2025-02-14">
+
+## {{ date_format(date="2025-02-14") }} /ᐠ ˵> ˕ <˵マ 喵~ {#2025-02-14}
 > {{ date_format_journal(date="2025-02-14T20:05:41") }}
 
 - Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa ~ q(≧▽≦q)
@@ -154,7 +172,11 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
     - Me also didn't notice it getting cleared on page refresh (so far didn't), but can be cleared in some cases, idk ~ (｡Ó﹏Ò｡)
 - Wa- this todays journal was all about "splash screen" ? \*dies from flash..\* \_(:3」∠)\_
 
-## {{ date_format(date="2025-02-11") }} /ᐠ˵- ⩊ -˵マ
+</article>
+
+<article data-date="2025-02-11">
+
+## {{ date_format(date="2025-02-11") }} /ᐠ˵- ⩊ -˵マ {#2025-02-11}
 > {{ date_format_journal(date="2025-02-11T21:20:28") }}
 
 - 喵~ /ᐠ｡ꞈ｡ᐟ\
@@ -182,7 +204,11 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
     - WELP ~ (⸝⸝⸝-﹏-⸝⸝⸝)
 - WAT IS GOING TO HAPPEN NOW ???????? AAAAAAAAAAA-.......... \*dies\* ~
 
-## {{ date_format(date="2025-02-09") }} (⸝⸝๑﹏๑⸝⸝)
+</article>
+
+<article data-date="2025-02-09">
+
+## {{ date_format(date="2025-02-09") }} (⸝⸝๑﹏๑⸝⸝) {#2025-02-09}
 > {{ date_format_journal(date="2025-02-09T21:46:03") }}
 
 - Waaaaaaaaaaaaaaa- !!!!!!!!!! (╯'□')╯︵ ┻━┻
@@ -197,7 +223,11 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
     - But yea, from front-end, looks nice nice da cool cool ~ （∠·ω<)~★
 - Me really want to create a lot of things! I want to code 24/7, but aaaaa- \_(:3」∠)\_
 
-## {{ date_format(date="2024-12-15") }} (｡•̀ᴗ-)✧
+</article>
+
+<article data-date="2024-12-15">
+
+## {{ date_format(date="2024-12-15") }} (｡•̀ᴗ-)✧ {#2024-12-15}
 > {{ date_format_journal(date="2024-12-15T20:28:03") }}
 
 - Aaaaaaaaaaaaaaaaaaaaaaa ~!!!!!!! ヾ(≧▽≦\*)o
@@ -208,7 +238,11 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
 - Ah~ me also created [ko-fi](https://ko-fi.com/cheapnightbot) page !!! /ᐠ ⎚ﻌ⎚マฅ
     - Wat can this (boiled) potato kid do ? (,,>﹏<,,)
 
-## {{ date_format(date="2024-12-01") }} \_(:3 」∠)\_
+</article>
+
+<article data-date="2024-12-01">
+
+## {{ date_format(date="2024-12-01") }} \_(:3 」∠)\_ {#2024-12-01}
 > {{ date_format_journal(date="2024-12-01T06:22:23") }}
 
 - Only one month left in this year, aaaaaaaaaaaaaaaaa ~!!!!!! (ʘ言ʘ╬)
@@ -225,7 +259,11 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
     - Me mean, can't use it since no domain ando hosting. It require such thing (for self-host) ando money for using their hosting. ( ; ω ; )
 - Me don't know what to do at this point.. help ~ o(TヘTo)
 
-## {{ date_format(date="2024-11-19") }} ヾ(≧ ▽ ≦)ゝ
+</article>
+
+<article data-date="2024-11-19">
+
+## {{ date_format(date="2024-11-19") }} ヾ(≧ ▽ ≦)ゝ {#2024-11-19}
 > {{ date_format_journal(date="2024-11-19T07:08:37") }}
 
 - Yestary me got one more star on [yutify](https://github.com/CheapNightbot/yutify) ~ (￣▽￣)"
@@ -234,7 +272,11 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
     - Ow, it seems that today at 1:52 AM, they forked it as well. q(≧▽≦q)
 - Aaaaaaaaaaaaaaaaaaaaaaaaaaa ~!!!!!!!!!!!!!!!!!!!! []\~(￣▽￣)\~\*
 
-## {{ date_format(date="2024-11-18") }}  ｡:ﾟ(｡ﾉω＼｡)ﾟ･｡
+</article>
+
+<article data-date="2024-11-18">
+
+## {{ date_format(date="2024-11-18") }}  ｡:ﾟ(｡ﾉω＼｡)ﾟ･｡ {#2024-11-18}
 > {{ date_format_journal(date="2024-11-18T06:54:03") }}
 
 - Hehe, me will move this thing into nice nice website soon™ (ノω<。)ノ))☆.。
@@ -246,7 +288,11 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
 - Ow, me want a domain name, but no money o(〒﹏〒)o
 {{ img(id="/journal/2024, 18 November/i-have-no-money.gif", alt="I have no money - Japanese idol crying", title="I have no money - Japanese idol crying", width="420", height="240", class="center") }}
 
-## {{ date_format(date="2024-10-26") }} /ᐠ｡ꞈ｡ᐟ\ nya\~?
+</article>
+
+<article data-date="2024-10-26">
+
+## {{ date_format(date="2024-10-26") }} /ᐠ｡ꞈ｡ᐟ\ nya\~? {#2024-10-26}
 > {{ date_format_journal(date="2024-10-26T03:10:22") }}
 
 - Aaaaaaaaaaaaaaaaaaaaaaaaa~ !!!!!!!!!!!!!! ヾ(≧▽≦\*)o
@@ -258,7 +304,11 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
 - Ow, me got new **fwend** as well (me wrote before?),
     - so me happy ~!!! o(\*////▽////\*)q
 
-## {{ date_format(date="2024-10-21") }} (｡>//<)
+</article>
+
+<article data-date="2024-10-21">
+
+## {{ date_format(date="2024-10-21") }} (｡>//<) {#2024-10-21}
 > {{ date_format_journal(date="2024-10-21T10:16:45") }}
 
 - Aaaaaaaaaaaaaaaaaa ~!!!!!! Me so so // very very happy today da right now ~ (/≧▽≦)/
@@ -283,7 +333,11 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
 - (っ╥╯﹏╰╥c)
 - "*Didn't you promise to not do it again? What happend? How shameless are you... Is it this easly for "humans" to forget everything and break promises? You better be a bot in your next life then .*
 
-## {{ date_format(date="2024-10-20") }} (┬┬﹏┬┬)
+</article>
+
+<article data-date="2024-10-20">
+
+## {{ date_format(date="2024-10-20") }} (┬┬﹏┬┬) {#2024-10-20}
 > {{ date_format_journal(date="2024-10-20T09:39:39") }}
 
 - Thankfully it's Sunday today, cause I was awake da whole "freakin last night.png" (till now) !!! (￣m￣）
@@ -297,7 +351,11 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
 - Now if me think about it, I really feel embarrassed ~ !! \_(:з)∠)\_
 - Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa ~ !! つ﹏⊂
 
-## {{ date_format(date="2024-10-19") }} ( ˶˘ ³˘(⋆❛ ہ ❛⋆)!♡
+</article>
+
+<article data-date="2024-10-19">
+
+## {{ date_format(date="2024-10-19") }} ( ˶˘ ³˘(⋆❛ ہ ❛⋆)!♡ {#2024-10-19}
 > {{ date_format_journal(date="2024-10-19T08:25:49") }}
 
 - Aaaaaaa ~ !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! q(≧▽≦q)
@@ -325,7 +383,11 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
     - So, me posted in hasitation (? I don't know a better word TwT) that what to do... Me was seriously afraid of A LOT of things !! TwT
     - But me was trembling after that.. that wasn't even able to type on keyboard !! (/ω＼\*)……… (/ω•＼\*) aaa- wat am I doing ando sayin...
 
-## {{ date_format(date="2024-10-01") }} \_(:з)∠)\_
+</article>
+
+<article data-date="2024-10-01">
+
+## {{ date_format(date="2024-10-01") }} \_(:з)∠)\_ {#2024-10-01}
 > {{ date_format_journal(date="2024-10-01T09:19:04") }}
 
 - Woah~! This year is so close to the end.. can't believe. (ToT)/~~~
@@ -346,7 +408,11 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
     - I'll document everything! For me! (╹ڡ╹ )
 - I think my Inglish is getting more like English ~! OwO
 
-## {{ date_format(date="2024-09-29") }} (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)
+</article>
+
+<article data-date="2024-09-29">
+
+## {{ date_format(date="2024-09-29") }} (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄) {#2024-09-29}
 > {{ date_format_journal(date="2024-09-29T04:19:01") }}
 
 - AAAAAAAAAAAAAAAAAAAAAAAA~!!!!
@@ -361,7 +427,11 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
 - Well, learning never ends..
 - Ow, if I look back to "{{ date_format(date="2024-05-01") }}" when I started CS50, it's been **152 days** OR **4 months, 29 days**.
 
-## {{ date_format(date="2024-08-06") }} ♡〜٩( ˃́▿˂̀ )۶〜♡
+</article>
+
+<article data-date="2024-08-06">
+
+## {{ date_format(date="2024-08-06") }} ♡〜٩( ˃́▿˂̀ )۶〜♡ {#2024-08-06}
 > {{ date_format_journal(date="2024-08-06T08:40:06") }}
 
 - Aaaaaaa~! Finally me back writting my Journal !!!! (｡T ω T｡)
@@ -376,7 +446,11 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
     - But me happy that I had wrote *bash scripts* for automating Journal & Blog entries. That's why I didn't have to figure it out how to start my Journal after not writting it for quite a while.
     - Just run script and it opens **vim** with everything ready for me to start writting. (⁄ ⁄•⁄ω⁄•⁄ ⁄)
 
-## {{ date_format(date="2024-05-29") }} (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)
+</article>
+
+<article data-date="2024-05-29">
+
+## {{ date_format(date="2024-05-29") }} (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄) {#2024-05-29}
 > {{ date_format_journal(date="2024-05-29T07:43:02") }}
 
 - Submitted "Problem Set 1" for the "Week 1 - C". ( •̀ .̫ •́ )✧
@@ -386,14 +460,22 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
 - And after taking a sleep, the first version did make sense and *It took me **1 hour 0 minute 6 second** to solve and submit it*. (｡・//ε//・｡)
 - Aaaaaa-! I love ♡(ɔˆз(ˆ⌣ˆc) **CS50**!!!
 
-## {{ date_format(date="2024-05-25") }} <(￣︶￣)>
+</article>
+
+<article data-date="2024-05-25">
+
+## {{ date_format(date="2024-05-25") }} <(￣︶￣)> {#2024-05-25}
 > {{ date_format_journal(date="2024-05-25T12:10:41") }}
 
 - Me submitted "Problem Set 0" for the "Week 0 - Scratch". (\〜￣▽￣)\〜
 - Aaaaaaaaaaaa! 'Cause of potato PC and very very frequent power cuts, it took me this long to submit it. ｡ﾟ･ (>﹏<) ･ﾟ｡
 - So, it's a simple top-down car game. Why explain here? [Check instead here](https://scratch.mit.edu/projects/1012685497) ! ଘ(੭ˊ꒳​ˋ)੭✧
 
-## {{ date_format(date="2024-05-21") }} (⁠ ⁠；⁠∀⁠；⁠) hehe..
+</article>
+
+<article data-date="2024-05-21">
+
+## {{ date_format(date="2024-05-21") }} (⁠ ⁠；⁠∀⁠；⁠) hehe.. {#2024-05-21}
 > {{ date_format_journal(date="2024-05-21T04:11:54") }}
 
 - I think I cought cold. (⁠〒⁠﹏⁠〒⁠)
@@ -408,7 +490,11 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
 - Like they say in Western culture nowadays, "I'm cooked". I think I have gotten the rights to say that (even though I have no idea what it really means). XD
 - Like, someone, that big, applying to 5000 jobs, in under half year and still not getting hired and keep applying... Then, I am just a small potato, applied to one job, I don't know what's going to happen. (⁠ ⁠；⁠∀⁠；)
 
-## {{ date_format(date="2024-05-20") }} (´,,•ω•,,)
+</article>
+
+<article data-date="2024-05-20">
+
+## {{ date_format(date="2024-05-20") }} (´,,•ω•,,) {#2024-05-20}
 > {{ date_format_journal(date="2024-05-20T11:58:46") }}
 
 - Aaaaaaaaaaaaaaaaaaa~!!!!!!!!! ☆\*:.｡.o(≧▽≦)o.｡.:\*☆
@@ -421,7 +507,11 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
 
 - I don't know, but Suddenly my heartbeat has increased. ⁄⁠(⁠⁄⁠ ⁠⁄⁠•⁠⁄⁠-⁠⁄⁠•⁠⁄⁠ ⁠⁄⁠)⁠⁄
 
-## {{ date_format(date="2024-05-15") }} ( = ⩊ = )
+</article>
+
+<article data-date="2024-05-15">
+
+## {{ date_format(date="2024-05-15") }} ( = ⩊ = ) {#2024-05-15}
 > {{ date_format_journal(date="2024-05-15T03:32:14") }}
 
 - Health = ✔
@@ -442,13 +532,21 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
     - While I can't write the other blog (on self-hosting) any soon due to PC-kun being sus, but can and will be writing the WSL one. („• ֊ •„)
 - I JUST WANT TO DO IT AND MAYBE EVERYTHING.. SOMEONE PLEASE ADOPT ME! (oT-T)尸
 
-## {{ date_format(date="2024-05-13") }} (￣▽￣* )ゞ
+</article>
+
+<article data-date="2024-05-13">
+
+## {{ date_format(date="2024-05-13") }} (￣▽￣* )ゞ {#2024-05-13}
 > {{ date_format_journal(date="2024-05-13T02:42:00") }}
 
 - GOT BACK TO MY PC !! \~\\(≧▽≦)/\~
 - A lot happened in between this time (since last wrote Journal and today), but it's waste to write all of those things now (this late). (ヘ･_･)ヘ┳━┳
 
-## {{ date_format(date="2024-05-04") }} (⁠´⁠；⁠ω⁠；⁠｀⁠)
+</article>
+
+<article data-date="2024-05-04">
+
+## {{ date_format(date="2024-05-04") }} (⁠´⁠；⁠ω⁠；⁠｀⁠) {#2024-05-04}
 
 > {{ date_format_journal(date="2024-05-04T00:29:50") }} (￢︿̫̿￢☆)
 
@@ -473,14 +571,22 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
 
 - Ow, by the way, me wrote today's Journal on my potato-droid phone using **Termux**. (⁠ ⁠；⁠∀⁠；⁠)
 
-## {{ date_format(date="2024-05-02") }} (。_。)
+</article>
+
+<article data-date="2024-05-02">
+
+## {{ date_format(date="2024-05-02") }} (。_。) {#2024-05-02}
 > {{ date_format_journal(date="2024-05-02T22:25:12") }}
 
 - Continuing the book mentioned earlier about JavaScript (too with CS50, why not?); I got to know that in JavaScript "variables" are also called "bindings". Makes sense; "we bind a value to a name that holds that value" - "we just binding a value to a name" ! .\______.
 - Ow, due to freakin electricity / power cuts + no internet data, I couldn't take the CS50 today. TwT
 - Life is unfair and only if you care (ˉ▽ˉ；)... wat?
 
-## {{ date_format(date="2024-05-01") }} つ﹏⊂
+</article>
+
+<article data-date="2024-05-01">
+
+## {{ date_format(date="2024-05-01") }} つ﹏⊂ {#2024-05-01}
 > {{ date_format_journal(date="2024-05-01T20:14:12") }}
 
 - Today, (finally) I started the CS50 journey.. ( •̀ ω •́ )✧
@@ -491,7 +597,11 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
 - It have all these tabs, links all over the place and I don't know which one to take first and after that.. you know what I mean. Like, just why not put everything in a more intuitive manner?
 - Like, wish there was everything in list format or maybe instructions like, "start here, then do this one and then that.. etc.". OR maybe I'm a potato brain just complaining here.. 〒▽〒
 
-## {{ date_format(date="2024-04-27") }} ( ´･･)ﾉ(._.`)
+</article>
+
+<article data-date="2024-04-27">
+
+## {{ date_format(date="2024-04-27") }} ( ´･･)ﾉ(._.`) {#2024-04-27}
 > {{ date_format_journal(date="2024-04-27T21:39:27") }}
 
 - Ah! I fell sick (past few days). (ToT)/\~\~\~
@@ -500,8 +610,11 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
 - What else? Aaaa~! I always forget important things! I want to write things I want to say as soon as they pop in my head, but it's not possible as I don't have access to my computer all the time.
 	- So, I might clone this repository (where this **zola** site is) into my phone and as I already got **Termux** installed, I can write from my phone (even though it's pain to write on small-potato phone). （︶^︶）
 
+</article>
 
-## {{ date_format(date="2024-04-24") }} ల(´= ◡ =｀)
+<article data-date="2024-04-24">
+
+## {{ date_format(date="2024-04-24") }} ల(´= ◡ =｀) {#2024-04-24}
 > {{ date_format_journal(date="2024-04-24T09:57:27") }}
 
 - Yesterday finished one of the *8 hour Python tutorial* by **freeCodeCamp** and deployed a weather app as the final project on *render.com*. ( ◎⃝⃘∀◎⃝⃘ )
@@ -510,7 +623,11 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
 - Ow, found this amazing website/project called [Open Book Project](https://openbookproject.net/). (ෆ`꒳´ෆ)
 - There's a lot.. I mean, there are a lot of things to learn and do, but only one life-. ( ｡_｡)
 
-## {{ date_format(date="2024-04-22") }} (\*￣▽￣\*)
+</article>
+
+<article data-date="2024-04-22">
+
+## {{ date_format(date="2024-04-22") }} (\*￣▽￣\*) {#2024-04-22}
 > {{ date_format_journal(date="2024-04-22T23:28:01") }}
 
 - Aaaah~! Been really into Linux rabit-hole.. to be specific, into self-hosting and stuff. What? (\~￣▽￣)\~
@@ -519,7 +636,11 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
 - That's why wasn't able to write (and commit writing) my daily Journal. Also, "cherry on top", my WSL installation broke (i have no idea). That's the another reason not being able to write. (｡•́-ก̀｡)
 - Oh, and most important thing for today: I started to read "[Eloquent JavaScript - 4th Edition](https://eloquentjavascript.net/) by **Marijn Haverbeke**. ٩(◦`꒳´◦)۶
 
-## {{ date_format(date="2024-04-07") }} (┬┬﹏┬┬)
+</article>
+
+<article data-date="2024-04-07">
+
+## {{ date_format(date="2024-04-07") }} (┬┬﹏┬┬) {#2024-04-07}
 > {{ date_format_journal(date="2024-04-07T08:38:14") }}
 
 - I swear to god, I don't remember any time when I felt this useless and hopeless at the same time. (٭°̧̧̧꒳°̧̧̧٭)
@@ -551,7 +672,11 @@ else
 fi
 ```
 
-## {{ date_format(date="2024-04-04") }} (´。＿。｀)
+</article>
+
+<article data-date="2024-04-04">
+
+## {{ date_format(date="2024-04-04") }} (´。＿。｀) {#2024-04-04}
 > {{ date_format_journal(date="2024-04-04T22:11:59") }}
 
 - Made just a minor contribution to an open-source project called `pyvts`. It was just fixing typo in docs.. (＞▽＜)
@@ -560,14 +685,22 @@ fi
 - Wah~.. forgot to mention important one for today: I came to know about this Gaming Engine - [Cocos](https://www.cocos.com/en). (☆▽☆)
 - Like think for a moment; how many cool and amazing things exists in this world and we don't even have time to explore or even get to know them. Only one life feels so stupid to have..god~ I wanna do everything! (｡•́-ก̀｡)
 
-## {{ date_format(date="2024-04-03") }} ￣へ￣
+</article>
+
+<article data-date="2024-04-03">
+
+## {{ date_format(date="2024-04-03") }} ￣へ￣ {#2024-04-03}
 > {{ date_format_journal(date="2024-04-03T21:15:01") }}
 
 - Today I went into the learning rabbit-hole. Basically it was ML (Machine Learning) and AI (Artificial Intelligent).
 - And you know what's the fun part? I got overwhelmed and ended up with 'fried potato' brain. (～﹃～)~zZ
 - Oh, out of context here, but it's kinda sad that how great people out there make/start something, give their everything to it, just like growing a child. And at the end, they (have to) abandon it.. (´;︵;`)
 
-## {{ date_format(date="2024-04-02") }} (๑•̀ㅂ•́)و✧
+</article>
+
+<article data-date="2024-04-02">
+
+## {{ date_format(date="2024-04-02") }} (๑•̀ㅂ•́)و✧ {#2024-04-02}
 > {{ date_format_journal(date="2024-04-02T07:11:23") }}
 
 - Aaaaaa-! I created [**Bash Scripts**](https://github.com/Nerdsomeness/Blog/tree/main/scripts) to kinda automate the entry/creation of Journal and Blog and it kinda cool how everything makes sense.
@@ -577,11 +710,16 @@ fi
 
 {{ img(id="/journal/2024, 02 April/discord-loot_boxes.png", alt="Discord Loot Boxes", title="Discord Loot Boxes", width="673", height="314", class="center") }}
 
+</article>
 
-## {{ date_format(date="2024-04-01") }} (^///^)
+<article data-date="2024-04-01">
+
+## {{ date_format(date="2024-04-01") }} (^///^) {#2024-04-01}
 > {{ date_format_journal(date="2024-04-01T03:56:00")}}
 
 - Finally, today deployed my **Zola** Blog/Journal to **GitHub Pages**.
 - Ah, it shouldn't be that much headache if **GitHub** hadn't flagged my account. (°ー°〃)
 - Wait, it's "April 1st" and I'm being serious as -! xD
 - Also, there are a lot of things needs to be done in this site.. like, the translation button- Ahm- nm. (´ｰ∀ｰ`)
+
+</article>

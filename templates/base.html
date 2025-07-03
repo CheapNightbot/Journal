@@ -1,18 +1,27 @@
 <!DOCTYPE html>
 <html lang="{% if page %}{{ page.lang }}{% else %}{{ config.default_language }}{% endif %}">
+
 <head>
     {% include "head.html" %}
 </head>
+
 <body>
-      <header>
-          {% include "header.html" %}
-      </header>
-      <main>
-          {% block content %}
-          {% endblock content %}
-      </main>
-      <footer>
-          {% include "footer.html" %}
-      </footer>
+    <header>
+        {% include "header.html" %}
+        <div class="search-container">
+            <input id="search" type="search" placeholder="ᓚ₍ ^. .^₎ Search...">
+            <div class="search-results">
+                <div class="search-results-items"></div>
+            </div>
+        </div>
+    </header>
+    <main>
+        {% block content %}
+        {% endblock content %}
+    </main>
+    <footer>
+        {% include "footer.html" %}
+    </footer>
 </body>
+
 </html>

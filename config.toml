@@ -6,6 +6,11 @@ minify_html = true
 generate_feeds = true
 default_language = "en"
 theme = "anemone-ness"
+build_search_index = true
+
+[search]
+include_title = false
+index_format = "elasticlunr_json"
 
 [markdown]
 render_emoji = true

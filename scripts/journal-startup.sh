@@ -5,7 +5,7 @@
 date_short=$(date +%F)
 date_full=$(date +%F\T%T)
 
-content="\n## {{ date_format(date=\"$date_short\") }} :EMOJI:\n> {{ date_format_journal(date=\"$date_full\") }}\n\n- "
+content="\n<article data-date=\"$date_short\">\n\n## {{ date_format(date=\"$date_short\") }} :EMOJI: {#$date_short}\n> {{ date_format_journal(date=\"$date_full\") }}\n\n- \n\n</article>"
 
 # Work around for the file path if script not ran while inside script directory.
 # Like, if you ran the script from the root of the Blog: './scripts/journal-startup.sh'.
