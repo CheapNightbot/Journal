@@ -27,6 +27,35 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
 
 <!-- NEW POST ON TOP -->
 
+<article data-date="2025-07-09">
+
+## {{ date_format(date="2025-07-09") }} (  •̀⤙•́  ) {#2025-07-09}
+> {{ date_format_journal(date="2025-07-09T20:58:14") }}
+
+- Okie !!! AAAAAAAAAAAAAAAAAA-... ME VERY ANGRY ! ｡°(°¯᷄◠¯᷅°)°｡
+- So, me recently contacted the "SoundCloud" support team for API access to add suport for SoundCloud in [yutify](https://github.com/CheapNightbot/yutify) ando [yutipy](https://github.com/CheapNightbot/yutipy)... (˵ ¬ᴗ¬˵)
+    - Yosh, you have to contact them using chat overlay thingy talking with bot support assistant which will then create a ticket for you then a "human" will check that ticket ando contact you back just to say "f**k you" to yu in the most human language that ever existed... 凸( •̀_•́ )凸
+- Anywa- "( – ⌓ – )
+- After doing that support ticket thingy, me 2 days ago got reply from them.. (≖⩊≖)
+- Yes, unfortunately me did not get access to SoundCloud API, because: •ᴗ•
+    - > "Due to a high number of spammers, trying to get access to and abusing our APIs, we decided to no longer grant API access to very new or inactive accounts."
+- Solution: •ᴗ•
+    - > "If you just started on SoundCloud, go ahead for a while - like some tracks, create a playlist, comment on a track or even upload your own first track. After that, please reach back out to us, so we can see that your account is used with genuine intention."
+    - Can't a freakin "spammer" do that ? (˵ ¬ᴗ¬˵)
+- But that is not why me angry.. me can understand. It's their product, they invested in that, they pay for keeping it up ando it's their sole choice who gets access, etc. ദ്ദി（• ˕ •マ.ᐟ
+- The thing that triggered me was this:
+    - > "Also: I see <u>on your website</u> that <u>you are monetising these tools</u> - unfortunately, our public API cannot be used for commercial use cases."
+    - "monetising definition" according to Google sensei:
+    - {{ img(id="/journal/2025, 09 July/'monetising definition' according to Google sensei.png", alt="'monetising definition' according to Google sensei", title="'monetising definition' according to Google sensei", width="612", height="73", class="center") }}
+- WHAT DA *\<CENSORED\>* ( ╹ -╹)!!?
+- What "monetising" ?? Where "meonetizing" ??? Which "your website" !!!? ( ,,⩌'︿'⩌,,)
+- It's freakin open-source ando FREE.. even my own website including this one where writing is open-source... just tell me where yu see "monetizing" ??? (¬_¬")
+- I never monetized anything ever in my life.. me not create for money, me create cause it solved a problem for me or my friendo !!! or me couldn't find solution to problem me got !!! (⸝⸝⸝>﹏<⸝⸝⸝)
+- Now there is no need.. me don't need your API ~ very very thank you ! ಥ﹏ಥ
+- I'm gonna delete the account as well.. (っ˃̣̣̥ -˂̣̣̥ς)
+
+</article>
+
 <article data-date="2025-07-03">
 
 ## {{ date_format(date="2025-07-03") }} ૮₍´˶• . • ⑅ ₎ა {#2025-07-03}
