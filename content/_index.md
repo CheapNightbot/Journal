@@ -27,6 +27,25 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
 
 <!-- NEW POST ON TOP -->
 
+<article data-date="2025-09-15">
+
+## {{ date_format(date="2025-09-15") }} (⸝⸝⸝>﹏<⸝⸝⸝) {#2025-09-15}
+> {{ date_format_journal(date="2025-09-15T15:33:05") }}
+
+- Ah ~ it been a month since me last touched this journal ? ( ˶°ㅁ°) !!
+- Me feel little lost ando don't know where to start for this one.. (,,>﹏<,,)
+    - Technically, me should have wrote this one yestarday.. but couldn't get the encouragement to write !!! („• ֊ •„)
+- Yestarday a friendo asked for help, it wasn't something impossible, but still me couldn't help ~ (,,¬﹏¬,,)
+- Waito before yu start to hate me !!!! (ó﹏ò｡)
+- It not like me refused to help or anything like that, but me couldn't say yes either. ( •̯́ ₃ •̯̀)
+- I want to write ando tell a lot, but me probably will end up writing something me should not.. so me will not write !!! “(ノ _ <,, )
+- But still, why me feel to strange.. it that feeling yu get saying you did something wrong, but you don't know what ~ (⸝⸝๑﹏๑⸝⸝)
+- Am i a bad friendo ? (｡•́︿•̀｡)
+- Me not deserve to be friendo ando live ?? (˚ ˃̣̣̥⌓˂̣̣̥ )
+- ME REALLY REALLY SORRY !!! (⁠╥⁠﹏⁠╥⁠)
+
+</article>
+
 <article data-date="2025-07-09">
 
 ## {{ date_format(date="2025-07-09") }} (  •̀⤙•́  ) {#2025-07-09}
