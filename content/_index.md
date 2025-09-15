@@ -39,7 +39,7 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
 - Waito before yu start to hate me !!!! (ó﹏ò｡)
 - It not like me refused to help or anything like that, but me couldn't say yes either. ( •̯́ ₃ •̯̀)
 - I want to write ando tell a lot, but me probably will end up writing something me should not.. so me will not write !!! “(ノ _ <,, )
-- But still, why me feel to strange.. it that feeling yu get saying you did something wrong, but you don't know what ~ (⸝⸝๑﹏๑⸝⸝)
+- But still, why me feel so strange.. it that feeling yu get saying you did something wrong, but you don't know what ~ (⸝⸝๑﹏๑⸝⸝)
 - Am i a bad friendo ? (｡•́︿•̀｡)
 - Me not deserve to be friendo ando live ?? (˚ ˃̣̣̥⌓˂̣̣̥ )
 - ME REALLY REALLY SORRY !!! (⁠╥⁠﹏⁠╥⁠)
