@@ -27,6 +27,40 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
 
 <!-- NEW POST ON TOP -->
 
+<article data-date="2025-09-26">
+
+## {{ date_format(date="2025-09-26") }} ₍^ >⩊< ^₎Ⳋ {#2025-09-26}
+> {{ date_format_journal(date="2025-09-26T07:36:33") }}
+
+- Me don't think i tell about learning "React" here-.. (⸝⸝๑﹏๑⸝⸝)
+    - But yea, me been learning react ! (>/////< " )
+    - OR, really making stuffy in it ? www (˵˃ ᗜ ˂˵)
+- AAAAAAAAAAAAAAAAAAAAAAAAAAAAA-... !!!!!!!!!! (╯'□')╯︵ ┻━┻
+- ME FORGOT TO MENTION ! (๑-﹏-๑)
+- Me don't remember when start it, but it not long ! (っ˕ -｡)
+- Anywawa !!! ৻(  •̀ ᗜ •́  ৻)
+- So, me really enjoying it, YES ! (˶˘ ³˘(´͈ ᵕ `͈˶)
+- Um.. not sure how to say, but it so so cool ando .. AAAAAAAAAAA !!!! ₍₍⚞(˶˃ ꒳ ˂˶)⚟⁾⁾
+- Me primarily learn ando learn as use to build <a href="https://cheapnightbot.me" target="_blank">homepage</a> ! (•̀ᴗ•́ )و
+    - me created it look like an operating system.. („• ֊ •„)
+    - it really was my goal/dream to create personal website look like operating system ever since me saw the <a href="https://web.archive.org/web/20221130220910/https://fydeos.io/" target="_blank">website</a> of "FydeOS" ~ ₍^⸝⸝> ·̫ <⸝⸝ ^₎
+    - they changed it now ! (≖⩊≖)
+    - Now me feel satisfied ? /ᐠ˵- ⩊ -˵マ meow ? meow meow !!!!!!!?????? haaaaaaa- ∘ ∘ ∘ ( °ヮ° ) ????!!!
+- Me really don't know how to say/explain why "enjoying" or "it so so cool" !! (˵ ¬ᴗ¬˵)
+    - hm hm.. but, me created terminal and todo app in it.. not separate projects ⭑.ᐟ
+    - Created terminal & todo app (not finish the todo as of writing right now !) as part of homepage, INSIDE IT/WEBSITE !!!! ฅ^ >ヮ<^₎
+    - It was so quick and all intuitive-.. or really, knowing exactly what me want ando what to do !!! ( ´ཀ` )
+    - Isn't it cool ( ˶°ㅁ°) !!!?????
+- WHAT ELSE ? WHAT ELSE !!! ??? (⸝⸝0⸝⸝0⸝⸝)
+- Ow, yea... BLOG !! Me also created blog (separate project) using "Astrojs" !! (｡>\\\\<)
+- Ando, of course.. write blog !! Not sure if it really was the first time writing blog post as it didn't feel strange or new.. (⚬◜ᴗ◝⚬)
+    - mean, was very comfortable writing ! ＿〆(。。)
+    - Felt like me done it before ~ =^◕⩊◕^=
+- And and one friendo (?) found + like + appreciate da blog post === me happy !!!! /ᐠ ˵> ˕ <˵マ
+- BYE ! ^. .^₎ฅ
+
+</article>
+
 <article data-date="2025-09-15">
 
 ## {{ date_format(date="2025-09-15") }} (⸝⸝⸝>﹏<⸝⸝⸝) {#2025-09-15}
