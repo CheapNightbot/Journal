@@ -27,6 +27,23 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
 
 <!-- NEW POST ON TOP -->
 
+<article data-date="2025-10-04">
+
+## {{ date_format(date="2025-10-04") }} ₍^⸝⸝> ·̫ <⸝⸝ ^₎ {#2025-10-04}
+> {{ date_format_journal(date="2025-10-04T12:51:28") }}
+
+- Just few minutes ago, me found this site out of the blue (search for something else, but found it): <a href="https://www.compuphase.com/" target="_blank">CompuPhase</a>..
+- Even though the footer says (the update year !!!):
+- ```
+  Copyright © 2022–2025, CompuPhase
+  Updated: 2022-03-14
+  ```
+- It gives nostalgia.. i mean, was the web always like that ? (•˕ •マ.ᐟ
+- I don't know why, but the feeling (in a good way !) get from this site is something me can not describe !! (˚ ˃̣̣̥⌓˂̣̣̥  )づ♡
+- Just going to save it here as a memory for today ~ /ᐠ˵- ᴗ -˵マ ᶻ 𝗓
+
+</article>
+
 <article data-date="2025-09-26">
 
 ## {{ date_format(date="2025-09-26") }} ₍^ >⩊< ^₎Ⳋ {#2025-09-26}
