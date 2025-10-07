@@ -27,6 +27,19 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
 
 <!-- NEW POST ON TOP -->
 
+<article data-date="2025-10-08">
+
+## {{ date_format(date="2025-10-08") }} (·•᷄_•᷅ ) {#2025-10-08}
+> {{ date_format_journal(date="2025-10-08T01:05:10") }}
+
+- Does success define who I am?
+- Does success define my abilities?
+- Why can't I get what I want?
+- What do I need to do to be "quilified" ??
+- Do I need to be quilified just to be alive ???
+
+</article>
+
 <article data-date="2025-10-04">
 
 ## {{ date_format(date="2025-10-04") }} ₍^⸝⸝> ·̫ <⸝⸝ ^₎ {#2025-10-04}
