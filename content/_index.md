@@ -27,6 +27,21 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
 
 <!-- NEW POST ON TOP -->
 
+<article data-date="2025-10-15">
+
+## {{ date_format(date="2025-10-15") }} (˶˘ ³˘(´͈ ᵕ `͈˶) {#2025-10-15}
+> {{ date_format_journal(date="2025-10-15T20:46:12") }}
+
+- Me made a new friendo today !!!!!!!!! AAAAAAAAAAAAAAAAAAAA ~ ♡(˃͈ ˂͈ )
+- But me think they think me baddo person or something .. (⸝⸝⸝>﹏<⸝⸝⸝)
+    - Me mean, the first impression ? hoi.. it kind of not good me guess as me was so excited ando maybe talk a lot/too much ??? “(ノ _ <,, )
+    - SORRY meow !!! /ᐠ ╥ ˕ ╥マ
+    - Me not mean to hurt or get personal in any way !!! （╥﹏╥）
+- ME HAPPY - bu-.. but aaaaaaaaaaa-.. why me like this !!!?? (˶˃⤙˂˶)
+- Please don't get me worng !!! ₍^⸝⸝> ·̫ <⸝⸝ ^₎
+
+</article>
+
 <article data-date="2025-10-08">
 
 ## {{ date_format(date="2025-10-08") }} (·•᷄_•᷅ ) {#2025-10-08}
