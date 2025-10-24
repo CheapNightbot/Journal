@@ -27,6 +27,23 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
 
 <!-- NEW POST ON TOP -->
 
+<article data-date="2025-10-25">
+
+## {{ date_format(date="2025-10-25") }} ฅ^>⩊<^ฅ {#2025-10-25}
+> {{ date_format_journal(date="2025-10-25T07:22:20") }}
+
+- YAAAAAAAAAAAAAAAAAAAAAAAAA-.. ٩(^ᗜ^ )و ´-
+- Okie, just applied for a JOB ! ᕙ(  •̀ ᗜ •́  )ᕗ
+
+{{ img(id="/journal/2025, 25 October/application-submitted.png", alt="Application Submitted Message", title="'Application Submitted Message", width="890", height="122", class="center") }}
+
+- But why excited ∘ ∘ ∘ ( °ヮ° ) ?
+- Looking at it, felt like it was meant for me.. ৻(  •̀ ᗜ •́  ৻)
+    - I mean, the job description ando stuff 100% align with me ! ( ´ཀ` )
+- Me getting good feelings, BUT if something called "luck" exists, it is my ex-.. (ᵕ—ᴗ—)
+
+</article>
+
 <article data-date="2025-10-15">
 
 ## {{ date_format(date="2025-10-15") }} (˶˘ ³˘(´͈ ᵕ `͈˶) {#2025-10-15}
