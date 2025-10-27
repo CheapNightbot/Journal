@@ -27,6 +27,31 @@ hohoi ~ welcome, me Cheap Nightbot (a boiled potato !!), and this is my corner o
 
 <!-- NEW POST ON TOP -->
 
+<article data-date="2025-10-27">
+
+## {{ date_format(date="2025-10-27") }} ヾ(๑ㆁᗜㆁ๑)ﾉ” {#2025-10-27}
+> {{ date_format_journal(date="2025-10-27T09:51:07") }}
+
+- Okie .. just installed the <a href="https://zed.dev/" target="_blank">Zed</a> text editor !!!! ( ∩´͈ ᐜ `͈∩)
+- IT VERY COOL !! LIKE IT !! ₍^ >⩊< ^₎Ⳋ
+- A friendo post about it ando me got to know..(Thank you !!) (>/////<) ♡
+  - Me heard about it before (when it first came out !?), but never really felt trying out..（´∇｀''）
+  - Also the reason was me being on "Windows" and it not available there at that time ~ („• ֊ •„)੭
+  - But me on Linux and install on Linux as well now !! ദ്ദി(˃ ᵕ ˂ ദ്ദി)
+- The vim mode, wat else yu need !? www (\* ´ ﹃｀\*)
+  - hai hai, yu can install extension in VSCode for that as well to the point why not just install/use vim itself ? (˵ ¬ᴗ¬˵)
+- Not sure why, but it feels comfortable like home ? (⸝⸝ᵕᴗᵕ⸝⸝)
+  - A-.. that does not sound good, but not sure how else to put it ( ˶o˶˶o˶) !!
+- Also recently VSCode has gotten little annoying for me ! •ᴗ•
+  - I don't know why ~ (ᵕ•_•)
+- waito-.. why me writing non-sense today ???? (っ'ヮ'c)
+- By the way here both VSCode and Zed in Idle state on Linux respectively:
+  - {{ img(id="/journal/2025, 27 October/vscode-idle-state.png", alt="VSCode, just open and not using", title="VSCode, just open and not using", width="803", height="286", class="center") }}
+  - {{ img(id="/journal/2025, 27 October/zed-idle-state.png", alt="Zed, just open and not using", title="Zed, just open and not using", width="801", height="100", class="center") }}
+- Moew is happy ~ /ᐠ˵- ⩊ -˵マ
+
+</article>
+
 <article data-date="2025-10-25">
 
 ## {{ date_format(date="2025-10-25") }} ฅ^>⩊<^ฅ {#2025-10-25}
